@@ -37,7 +37,7 @@ def simplify_bipartite(sif_file, bipartite_dot_file, projected_dot_file, project
     if verbose: 
         logging.basicConfig(level=logging.DEBUG)
     else: 
-        logging.basicConfig(level=logging.ERROR)
+        logging.basicConfig(level=logging.INFO)
 
     fontsize = 4
     g_entity_pool = nx.DiGraph()

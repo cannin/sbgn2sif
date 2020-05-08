@@ -19,7 +19,7 @@ def extract_sbgn_edges(sbgnml_file, sif_file, verbose=True):
     if verbose: 
         logging.basicConfig(level=logging.DEBUG)
     else: 
-        logging.basicConfig(level=logging.ERROR)
+        logging.basicConfig(level=logging.INFO)
 
     #verbose = False
     #sbgnml_file = 'pamp.sbgn'

@@ -12,7 +12,9 @@ def main(sbgnml_file, convert_dot, verbose):
     if verbose: 
         logging.basicConfig(level=logging.DEBUG)
     else: 
-        logging.basicConfig(level=logging.ERROR)
+        logging.basicConfig(level=logging.INFO)
+
+    logging.info("SBGNML: " + sbgnml_file)
 
     sif_file=list(os.path.splitext(sbgnml_file))
     sif_file[1]="_intermediate.sif"
@@ -36,11 +38,14 @@ def main(sbgnml_file, convert_dot, verbose):
 
     # Run extraction 
     extraction = extract_sbgn_edges(sbgnml_file=sbgnml_file, sif_file=sif_file, verbose=verbose)
+    logging.info("Extraction complete")
 
+    # Run simplification
     if extraction['edge_count'] > 0: 
         simplify_bipartite(sif_file=sif_file, bipartite_dot_file=bipartite_dot_file, projected_dot_file=projected_dot_file, projected_sif_file=projected_sif_file, convert_dot=convert_dot, verbose=verbose)
     else: 
         sys.exit("ERROR: No edges found. Network cannot be simplified")
+    logging.info("Simplification complete")
 
     if verbose: 
         if extraction['warning_count'] > 0:
