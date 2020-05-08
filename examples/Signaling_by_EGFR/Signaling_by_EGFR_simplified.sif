@@ -1,0 +1,136 @@
+PARTICIPANT_A	INTERACTION_TYPE	PARTICIPANT_B	ANNOTATION_SOURCE	ANNOTATION_INTERACTION	ANNOTATION_TARGET	SOURCE_CLASS	TARGET_CLASS
+EGF-like ligands_p-6Y EGFR_SHC1	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y EGFR_SHC1	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1				complex	complex
+Ub	production	EGF-like ligands_p-6Y-EGFR_CBL_Ub-p-Y53/55-SPRY1/2				unspecified entity	complex
+Ub	production	EGF-like ligands_Ub-p-6Y-EGFR_p-Y371-CBL				unspecified entity	complex
+Ub	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_Ub-CIN85_Endophilin_Epsin_Eps15L1_Eps15				unspecified entity	complex
+Ub	production	EGF-like ligands_Ub-p-6Y-EGFR_p-Y371-CBL_GRB2				unspecified entity	complex
+Ub	production	EGF-like ligands_p-6Y-EGFR_CBL_GRB2				unspecified entity	complex
+Ub	production	Ub-Beta-Pix_CDC42_GTP				unspecified entity	complex
+EGFR_EGF-like ligands	production	EGF-like ligands_EGFR dimer				complex	complex
+PI(4_5)P2	production	ADP				simple chemical	simple chemical
+PI(4_5)P2	production	PI(3_4_5)P3				simple chemical	simple chemical
+PI(4_5)P2	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				simple chemical	complex
+GTP	production	p21 RAS_GTP				simple chemical	complex
+GTP	production	GDP				simple chemical	simple chemical
+EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1	production	EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1_GRB2_SOS1				complex	complex
+GAB1	production	GRB2_GAB1				macromolecule	complex
+EGF-like ligands_p-6Y-EGFR_CBL_p-Y53/55-SPRY1/2	production	EGF-like ligands_p-6Y-EGFR_CBL_Ub-p-Y53/55-SPRY1/2				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_PI3K				complex	complex
+SRC-1	catalysis	EGF-like ligands_p-6Y EGFR dimer				macromolecule	complex
+SRC-1	catalysis	ADP				macromolecule	simple chemical
+p-Y55-SPRY2	production	CBL_SPRY1/2				macromolecule	complex
+GRB2-1_SOS1	production	EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1_GRB2_SOS1				complex	complex
+GRB2-1_SOS1	production	EGF-like ligands_p-6Y-EGFR_GRB2_SOS1				complex	complex
+EGF-like ligands_p-6Y-EGFR_PLCG1	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_PLCG1	catalysis	EGF-like ligand_p-6Y-EGFR_p-Y472_771_783_1254-PLCG1				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_SPRY1/2_Endophilin_Epsin_Eps15L1_EPS15				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_Ub-CIN85_Endophilin_Epsin_Eps15L1_Eps15				complex	complex
+ADAM_Zn2+	catalysis	EGF				complex	macromolecule
+EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1_GRB2_SOS1	catalysis	p21 RAS_GTP				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1_GRB2_SOS1	catalysis	GDP				complex	simple chemical
+ATP	production	PI(3_4_5)P3				simple chemical	simple chemical
+ATP	production	ADP				simple chemical	simple chemical
+ATP	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_p-EPS15_HGS_STAM				simple chemical	complex
+ATP	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1				simple chemical	complex
+ATP	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2				simple chemical	complex
+ATP	production	EGF-like ligands_p-6Y-EGFR_p-Y349_350-SHC1				simple chemical	complex
+ATP	production	EGF-like ligands_p-6Y EGFR dimer				simple chemical	complex
+ATP	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL				simple chemical	complex
+ATP	production	EGF-like ligand_p-6Y-EGFR_p-Y472_771_783_1254-PLCG1				simple chemical	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_p-EPS15_HGS_STAM	production	Pi				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_p-EPS15_HGS_STAM	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin	production	EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP_CIN85				complex	complex
+p-Y317-PAG1	production	Pi				macromolecule	simple chemical
+p-Y317-PAG1	production	PAG1				macromolecule	macromolecule
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-Y627_659-GAB1_SHP2				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	catalysis	Pi				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	catalysis	EGF-like ligands_p-5Y-EGFR_GRB2_p-5Y-GAB1_SHP2				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	catalysis	PAG1				complex	macromolecule
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	catalysis	CSK				complex	macromolecule
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2	catalysis	PXN_MyrG-SRC				complex	complex
+CIN85_endophilin	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin				complex	complex
+CIN85_endophilin	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15				complex	complex
+PI(3_4_5)P3	production	GRB2_GAB1_PIP3				simple chemical	complex
+EGF-like ligand_p-6Y-EGFR_p-Y472_771_783_1254-PLCG1	production	EGF-like ligands_p-6Y EGFR dimer				complex	complex
+EGF-like ligand_p-6Y-EGFR_p-Y472_771_783_1254-PLCG1	production	p-4Y-PLCG1				complex	macromolecule
+EGF-like ligands_p-6Y-EGFR_CBL_GRB2	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_CBL_GRB2	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL	production	EGF-like ligands_Ub-p-6Y-EGFR_p-Y371-CBL				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL	catalysis	EGF-like ligands_p-6Y-EGFR_CBL_Ub-p-Y53/55-SPRY1/2				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_p-EPS15_HGS_STAM				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y-EGFR_PLCG1				complex	complex
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y-EGFR_CBL				complex	complex
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y-EGFR_GRB2_GAB1				complex	complex
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y-EGFR_CBL_GRB2				complex	complex
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y EGFR_SHC1				complex	complex
+EGF-like ligands_p-6Y EGFR dimer	production	EGF-like ligands_p-6Y-EGFR_GRB2_SOS1				complex	complex
+PLCG1	production	EGF-like ligands_p-6Y-EGFR_PLCG1				macromolecule	complex
+CBL	production	CBL_GRB2				macromolecule	complex
+CBL	production	CBL_Beta-Pix_CDC42_GTP				macromolecule	complex
+CBL	production	CBL_SPRY1/2				macromolecule	complex
+CBL	production	EGF-like ligands_p-6Y-EGFR_CBL				macromolecule	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_SOS1	catalysis	p21 RAS_GTP				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_SOS1	catalysis	GDP				complex	simple chemical
+LRIG1	inhibition	EGFR_EGF-like ligands				macromolecule	complex
+EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP	catalysis	Ub-Beta-Pix_CDC42_GTP				complex	complex
+EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP	catalysis	EGF-like ligands_p-6Y-EGFR_CBL_GRB2				complex	complex
+GRB2_GAB1	production	GRB2_GAB1_PIP3				complex	complex
+EGF-like ligands_EGFR dimer	production	EGF-like ligands_p-6Y EGFR dimer				complex	complex
+EGF-like ligands_EGFR dimer	production	ADP				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_CBL	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_CBL	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL				complex	complex
+SPRY1/2	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_SPRY1/2_Endophilin_Epsin_Eps15L1_EPS15				unspecified entity	complex
+SPRY1/2	production	EGF-like ligands_p-6Y-EGFR_CBL_Ub-p-Y53/55-SPRY1/2				unspecified entity	complex
+PTPN11	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_SHP2				macromolecule	complex
+SOS1	production	GRB2-1_SOS1				macromolecule	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_PI3K	catalysis	ADP				complex	simple chemical
+EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_PI3K	catalysis	PI(3_4_5)P3				complex	simple chemical
+H2O	production	PAG1				simple chemical	macromolecule
+H2O	production	Pi				simple chemical	simple chemical
+H2O	production	EGF_p-EGFR dimer dephosphorylated at Y1148 (Y1172)				simple chemical	complex
+H2O	production	EGF-like ligands_p-5Y-EGFR_GRB2_p-5Y-GAB1_SHP2				simple chemical	complex
+H2O	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-Y627_659-GAB1_SHP2				simple chemical	complex
+H2O	production	CSK				simple chemical	macromolecule
+H2O	production	PXN_MyrG-SRC				simple chemical	complex
+H2O	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				simple chemical	complex
+EPS15L1	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				macromolecule	complex
+EPS15L1	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15				macromolecule	complex
+CBL_GRB2	production	EGF-like ligands_p-6Y-EGFR_CBL_GRB2				complex	complex
+EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP_CIN85	production	EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP				complex	complex
+EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP_CIN85	production	CIN85_endophilin				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2	production	EGF-like ligands_Ub-p-6Y-EGFR_p-Y371-CBL_GRB2				complex	complex
+EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin				complex	complex
+Pro-EGF	production	EGF				macromolecule	macromolecule
+EGFR	production	EGFR_EGF-like ligands				macromolecule	complex
+EGF-like ligands	production	EGFR_EGF-like ligands				unspecified entity	complex
+EGF_p-6Y-EGFR dimer	production	EGF_p-EGFR dimer dephosphorylated at Y1148 (Y1172)				complex	complex
+EGF_p-6Y-EGFR dimer	production	Pi				complex	simple chemical
+p-Y-PXN_CSK_MyrG_p-Y530-SRC	production	CSK				complex	macromolecule
+p-Y-PXN_CSK_MyrG_p-Y530-SRC	production	Pi				complex	simple chemical
+p-Y-PXN_CSK_MyrG_p-Y530-SRC	production	PXN_MyrG-SRC				complex	complex
+EPS15_HGS_STAM	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				complex	complex
+EPS15_HGS_STAM	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15				complex	complex
+SHC1	production	EGF-like ligands_p-6Y EGFR_SHC1				macromolecule	complex
+EPN1	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				macromolecule	complex
+EPN1	production	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_CIN85_Endophilin_Epsin_Eps15L1_Eps15				macromolecule	complex
+PTPN3	catalysis	Pi				macromolecule	simple chemical
+PTPN3	catalysis	EGF-like ligands_p-6Y-EGFR_p-Y371-CBL_GRB2_CIN85_Endophilin_EPN1_EPS15L1_EPS15_HGS_STAM				macromolecule	complex
+PTPRK	inhibition	EGF-like ligands_Ub-p-6Y-EGFR_p-Y371-CBL_GRB2				macromolecule	complex
+PIK3CA_PIK3R1	production	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1_PI3K				complex	complex
+GRB2_GAB1_GRB2_GAB1_PIP3	production	EGF-like ligands_p-6Y-EGFR_GRB2_GAB1				unspecified entity	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_GAB1	catalysis	EGF-like ligands_p-6Y-EGFR_GRB2_p-5Y-GAB1				complex	complex
+EGF-like ligands_p-6Y-EGFR_GRB2_GAB1	catalysis	ADP				complex	simple chemical
+GRB2-1	production	GRB2-1_SOS1				macromolecule	complex
+GRB2-1	production	GRB2_GAB1				macromolecule	complex
+GRB2-1	production	CBL_GRB2				macromolecule	complex
+Beta-Pix_CDC42_GTP	production	CBL_Beta-Pix_CDC42_GTP				complex	complex
+Beta-Pix_CDC42_GTP	production	EGF_p-6Y-EGFR_CBL_Beta-Pix_CDC42_GTP_CIN85				complex	complex
+PTPN12	catalysis	EGF_p-EGFR dimer dephosphorylated at Y1148 (Y1172)				macromolecule	complex
+PTPN12	catalysis	Pi				macromolecule	simple chemical
+p21 RAS_GDP	production	p21 RAS_GTP				complex	complex
+p21 RAS_GDP	production	GDP				complex	simple chemical

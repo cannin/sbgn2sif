@@ -1,0 +1,195 @@
+PARTICIPANT_A	INTERACTION_TYPE	PARTICIPANT_B	ANNOTATION_SOURCE	ANNOTATION_INTERACTION	ANNOTATION_TARGET	SOURCE_TYPE	TARGET_TYPE	SOURCE_CLASS	TARGET_CLASS
+GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1:GRB2:SOS1				process	entity_pool	association	complex
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)	production	GDP				process	entity_pool	process	simple chemical
+CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	production	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP				process	entity_pool	dissociation	complex
+GRB2-1 binds SOS1	production	GRB2-1:SOS1				process	entity_pool	association	complex
+H2O	consumption	Dephosphorylation of Gab1 by SHP2				entity_pool	process	simple chemical	process
+GRB2:GAB1 binds to phosphorylated EGFR	production	EGF-like ligands:p-6Y-EGFR:GRB2:GAB1				process	entity_pool	association	complex
+EGFR phosphorylates EPS15	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:p-EPS15:HGS:STAM				process	entity_pool	process	complex
+SHC1	consumption	SHC1 binds to the phosphorylated EGF receptor:ligand complex				entity_pool	process	macromolecule	association
+EGF-like ligands:EGFR dimer	consumption	EGFR autophosphorylation				entity_pool	process	complex	process
+SPRY1/2	consumption	CBL binds and ubiquitinates phosphorylated Sprouty				entity_pool	process	unspecified entity	process
+CBL	consumption	Sprouty lures CBL away from EGFR				entity_pool	process	macromolecule	omitted process
+EGF-like ligands:p-6Y EGFR dimer	consumption	Phospholipase C-gamma1 binds to the activated EGF receptor				entity_pool	process	complex	association
+Dephosphorylation of PAG by SHP2	production	Pi				process	entity_pool	process	simple chemical
+Beta-Pix:CDC42:GTP	consumption	CDC42:GTP binds CBL:Beta-Pix				entity_pool	process	complex	association
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)	production	p21 RAS:GTP				process	entity_pool	process	complex
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)	production	p21 RAS:GTP				process	entity_pool	process	complex
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Dephosphorylation of Gab1 by SHP2				entity_pool	process	complex	process
+EPS15:HGS:STAM	consumption	EGFR non-clathrin mediated endocytosis				entity_pool	process	complex	association
+Ub	consumption	CBL ubiquitinates Sprouty				entity_pool	process	unspecified entity	process
+PI(4,5)P2	consumption	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y-EGFR:CBL	consumption	Phosphorylation of CBL (EGFR:CBL)				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:PLCG1	consumption	EGFR activates PLC-gamma1 by phosphorylation				entity_pool	process	complex	process
+EGF:p-6Y-EGFR dimer	consumption	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)				entity_pool	process	complex	process
+EGF-like ligands:p-6Y EGFR dimer	consumption	GRB2:GAB1 binds to phosphorylated EGFR				entity_pool	process	complex	association
+Phosphorylation of EGFR by SRC kinase	production	ADP				process	entity_pool	process	simple chemical
+PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)	production	ADP				process	entity_pool	process	simple chemical
+EGF-like ligands:p-6Y-EGFR:GRB2:SOS1	catalysis	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)				entity_pool	process	complex	process
+EGFR autophosphorylation	production	ADP				process	entity_pool	process	simple chemical
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	catalysis	Ubiquitination of stimulated EGFR (CBL)				entity_pool	process	complex	process
+Dephosphorylation of PAG by SHP2	production	PAG1				process	entity_pool	process	macromolecule
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1	consumption	PI3K binds to EGF:EGFR:GRB2:GAB1				entity_pool	process	complex	association
+Phosphorylation of EGFR by SRC kinase	production	EGF-like ligands:p-6Y EGFR dimer				process	entity_pool	process	complex
+CBL	consumption	CDC42:GTP binds CBL:Beta-Pix				entity_pool	process	macromolecule	association
+ATP	consumption	EGFR activates PLC-gamma1 by phosphorylation				entity_pool	process	simple chemical	process
+ATP	consumption	Phosphorylation of CBL (EGFR:GRB2:CBL)				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:p-EPS15:HGS:STAM	consumption	PTPN3 dephosphorylates EPS15				entity_pool	process	complex	process
+Active PLC-gamma1 dissociates from EGFR	production	EGF-like ligands:p-6Y EGFR dimer				process	entity_pool	dissociation	complex
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	consumption	SHP2 dephosphorylates Tyr 992 on EGFR				entity_pool	process	complex	process
+H2O	consumption	PTPN3 dephosphorylates EPS15				entity_pool	process	simple chemical	process
+Ubiquitination of stimulated EGFR (CBL:GRB2)	production	EGF-like ligands:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2				process	entity_pool	process	complex
+Activation of SHP2 through the binding to phospho-Gab1	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2				process	entity_pool	association	complex
+Phosphorylation of CBL (EGFR:GRB2:CBL)	production	ADP				process	entity_pool	process	simple chemical
+EGFR activates PLC-gamma1 by phosphorylation	production	ADP				process	entity_pool	process	simple chemical
+p-Y55-SPRY2	consumption	Sprouty lures CBL away from EGFR				entity_pool	process	macromolecule	omitted process
+SHC1 phosphorylation by phosphorylated EGFR	production	ADP				process	entity_pool	process	simple chemical
+p21 RAS:GDP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)				entity_pool	process	complex	process
+SHP2 dephosphorylates Tyr 992 on EGFR	production	EGF-like ligands:p-5Y-EGFR:GRB2:p-5Y-GAB1:SHP2				process	entity_pool	process	complex
+CIN85:endophilin	consumption	EGFR non-clathrin mediated endocytosis				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	consumption	Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85				entity_pool	process	complex	association
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	consumption	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix				entity_pool	process	complex	process
+PI3K binds to EGF:EGFR:GRB2:GAB1	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:PI3K				process	entity_pool	association	complex
+Phospholipase C-gamma1 binds to the activated EGF receptor	production	EGF-like ligands:p-6Y-EGFR:PLCG1				process	entity_pool	association	complex
+Assembly of EGFR complex in clathrin-coated vesicles	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin				process	entity_pool	association	complex
+Ub	consumption	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix				entity_pool	process	unspecified entity	process
+PTPN3	catalysis	PTPN3 dephosphorylates EPS15				entity_pool	process	macromolecule	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	catalysis	Ubiquitination of stimulated EGFR (CBL:GRB2)				entity_pool	process	complex	process
+EGFR	consumption	EGFR binds EGF ligand				entity_pool	process	macromolecule	association
+GTP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)				entity_pool	process	simple chemical	process
+PTPN12 dephosphorylates EGFR at Y1148 (Y1172)	production	Pi				process	entity_pool	process	simple chemical
+EGFR:EGF-like ligands	consumption	EGFR dimerization				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Sustained activation of SRC kinase by SHP2				entity_pool	process	complex	process
+ATP	consumption	EGFR autophosphorylation				entity_pool	process	simple chemical	process
+GRB2:GAB1,GRB2:GAB1:PIP3	consumption	GRB2:GAB1 binds to phosphorylated EGFR				entity_pool	process	unspecified entity	association
+Binding of CBL to EGFR	production	EGF-like ligands:p-6Y-EGFR:CBL				process	entity_pool	association	complex
+CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	production	Ub-Beta-Pix:CDC42:GTP				process	entity_pool	process	complex
+H2O	consumption	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)				entity_pool	process	simple chemical	process
+GRB2-1:SOS1	consumption	GRB2:SOS1 complex binds to EGF:EGFR complex				entity_pool	process	complex	association
+Binding of GRB2 to GAB1	production	GRB2:GAB1				process	entity_pool	association	complex
+p21 RAS:GDP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)				entity_pool	process	complex	process
+Dephosphorylation of Gab1 by SHP2	production	Pi				process	entity_pool	process	simple chemical
+EGFR dimerization	production	EGF-like ligands:EGFR dimer				process	entity_pool	association	complex
+EGFR autophosphorylation	production	EGF-like ligands:p-6Y EGFR dimer				process	entity_pool	process	complex
+SOS1	consumption	GRB2-1 binds SOS1				entity_pool	process	macromolecule	association
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	SHP2 dephosphorylates Tyr 992 on EGFR				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	consumption	Dephosphorylation of Gab1 by SHP2				entity_pool	process	complex	process
+GAB1 binds phosphatidylinositol-3,4,5-trisphosphate	production	GRB2:GAB1:PIP3				process	entity_pool	association	complex
+GTP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)				entity_pool	process	simple chemical	process
+PTPN3 dephosphorylates EPS15	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM				process	entity_pool	process	complex
+PTPN11	consumption	Activation of SHP2 through the binding to phospho-Gab1				entity_pool	process	macromolecule	association
+SPRY1/2	consumption	Sprouty sequesters CBL away from active EGFR				entity_pool	process	unspecified entity	association
+PLCG1	consumption	Phospholipase C-gamma1 binds to the activated EGF receptor				entity_pool	process	macromolecule	association
+Ub	consumption	Ubiquitination of stimulated EGFR (CBL)				entity_pool	process	unspecified entity	process
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Dephosphorylation of PAG by SHP2				entity_pool	process	complex	process
+EGF-like ligands:p-6Y EGFR:SHC1	consumption	SHC1 phosphorylation by phosphorylated EGFR				entity_pool	process	complex	process
+SHC1 binds to the phosphorylated EGF receptor:ligand complex	production	EGF-like ligands:p-6Y EGFR:SHC1				process	entity_pool	association	complex
+ATP	consumption	Phosphorylation of CBL (EGFR:CBL)				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y-EGFR:CBL	catalysis	Phosphorylation of CBL (EGFR:CBL)				entity_pool	process	complex	process
+EPS15L1	consumption	EGFR binds EPS15, EPN1, EPS15L1				entity_pool	process	macromolecule	association
+EGF-like ligands:EGFR dimer	catalysis	EGFR autophosphorylation				entity_pool	process	complex	process
+EPN1	consumption	EGFR binds EPS15, EPN1, EPS15L1				entity_pool	process	macromolecule	association
+GAB1 phosphorylation by EGFR kinase	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1				process	entity_pool	process	complex
+CBL-mediated ubiquitination of CIN85	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15L1:Eps15				process	entity_pool	process	complex
+H2O	consumption	Sustained activation of SRC kinase by SHP2				entity_pool	process	simple chemical	process
+PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)	production	PI(3,4,5)P3				process	entity_pool	process	simple chemical
+PI(3,4,5)P3	consumption	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate				entity_pool	process	simple chemical	association
+EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1:GRB2:SOS1	catalysis	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)				entity_pool	process	complex	process
+ATP	consumption	GAB1 phosphorylation by EGFR kinase				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y EGFR:SHC1	catalysis	SHC1 phosphorylation by phosphorylated EGFR				entity_pool	process	complex	process
+PI(4,5)P2	consumption	EGFR binds EPS15, EPN1, EPS15L1				entity_pool	process	simple chemical	association
+ATP	consumption	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y EGFR dimer	consumption	SHC1 binds to the phosphorylated EGF receptor:ligand complex				entity_pool	process	complex	association
+Ubiquitination of stimulated EGFR (CBL)	production	EGF-like ligands:Ub-p-6Y-EGFR:p-Y371-CBL				process	entity_pool	process	complex
+Ub	consumption	Ubiquitination of stimulated EGFR (CBL:GRB2)				entity_pool	process	unspecified entity	process
+p-Y317-PAG1	consumption	Dephosphorylation of PAG by SHP2				entity_pool	process	macromolecule	process
+EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1	consumption	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR				entity_pool	process	complex	association
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	consumption	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85				entity_pool	process	complex	dissociation
+GRB2:SOS1 complex binds to EGF:EGFR complex	production	EGF-like ligands:p-6Y-EGFR:GRB2:SOS1				process	entity_pool	association	complex
+SHC1 phosphorylation by phosphorylated EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1				process	entity_pool	process	complex
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	consumption	Assembly of EGFR complex in clathrin-coated vesicles				entity_pool	process	complex	association
+CDC42:GTP binds CBL:Beta-Pix	production	CBL:Beta-Pix:CDC42:GTP				process	entity_pool	association	complex
+CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	production	CIN85:endophilin				process	entity_pool	dissociation	complex
+H2O	consumption	Dephosphorylation of PAG by SHP2				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y EGFR dimer	consumption	Binding of CBL to EGFR				entity_pool	process	complex	association
+GRB2-1	consumption	CBL binds to GRB2				entity_pool	process	macromolecule	association
+EGF-like ligands:p-6Y EGFR dimer	consumption	GRB2:SOS1 complex binds to EGF:EGFR complex				entity_pool	process	complex	association
+EGFR phosphorylates EPS15	production	ADP				process	entity_pool	process	simple chemical
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM	consumption	EGFR phosphorylates EPS15				entity_pool	process	complex	process
+PTPN12	catalysis	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)				entity_pool	process	macromolecule	process
+PTPN3 dephosphorylates EPS15	production	Pi				process	entity_pool	process	simple chemical
+EGF-like ligands:p-6Y-EGFR:PLCG1	catalysis	EGFR activates PLC-gamma1 by phosphorylation				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:GRB2:GAB1	consumption	GAB1 phosphorylation by EGFR kinase				entity_pool	process	complex	process
+CIN85:endophilin	consumption	Assembly of EGFR complex in clathrin-coated vesicles				entity_pool	process	complex	association
+H2O	consumption	SHP2 dephosphorylates Tyr 992 on EGFR				entity_pool	process	simple chemical	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	consumption	CBL-mediated ubiquitination of CIN85				entity_pool	process	complex	process
+GAB1	consumption	Binding of GRB2 to GAB1				entity_pool	process	macromolecule	association
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1	consumption	Activation of SHP2 through the binding to phospho-Gab1				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	CBL binds and ubiquitinates phosphorylated Sprouty				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	catalysis	CBL ubiquitinates Sprouty				entity_pool	process	complex	process
+CBL	consumption	CBL binds to GRB2				entity_pool	process	macromolecule	association
+ATP	consumption	Phosphorylation of EGFR by SRC kinase				entity_pool	process	simple chemical	process
+Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85	production	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85				process	entity_pool	association	complex
+GRB2-1	consumption	Binding of GRB2 to GAB1				entity_pool	process	macromolecule	association
+Pro-EGF	consumption	Pro-EGF is cleaved to form mature EGF				entity_pool	process	macromolecule	process
+Phosphorylation of CBL (EGFR:CBL)	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL				process	entity_pool	process	complex
+Sprouty lures CBL away from EGFR	production	CBL:SPRY1/2				process	entity_pool	omitted process	complex
+EGF-like ligand:p-6Y-EGFR:p-Y472,771,783,1254-PLCG1	consumption	Active PLC-gamma1 dissociates from EGFR				entity_pool	process	complex	dissociation
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	consumption	Ubiquitination of stimulated EGFR (CBL:GRB2)				entity_pool	process	complex	process
+Pro-EGF is cleaved to form mature EGF	production	EGF				process	entity_pool	process	macromolecule
+Phosphorylation of CBL (EGFR:GRB2:CBL)	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2				process	entity_pool	process	complex
+EPS15L1	consumption	EGFR non-clathrin mediated endocytosis				entity_pool	process	macromolecule	association
+EGFR non-clathrin mediated endocytosis	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15				process	entity_pool	association	complex
+PIK3CA:PIK3R1	consumption	PI3K binds to EGF:EGFR:GRB2:GAB1				entity_pool	process	complex	association
+Ub	consumption	CBL binds and ubiquitinates phosphorylated Sprouty				entity_pool	process	unspecified entity	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	EGFR non-clathrin mediated endocytosis				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	consumption	CBL ubiquitinates Sprouty				entity_pool	process	complex	process
+CBL binds to GRB2	production	CBL:GRB2				process	entity_pool	association	complex
+PTPRK	inhibition	Ubiquitination of stimulated EGFR (CBL:GRB2)				entity_pool	process	macromolecule	process
+EPN1	consumption	EGFR non-clathrin mediated endocytosis				entity_pool	process	macromolecule	association
+ATP	consumption	EGFR phosphorylates EPS15				entity_pool	process	simple chemical	process
+GAB1 phosphorylation by EGFR kinase	production	ADP				process	entity_pool	process	simple chemical
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	catalysis	CBL binds and ubiquitinates phosphorylated Sprouty				entity_pool	process	complex	process
+EGF-like ligands:p-6Y EGFR dimer	consumption	Localization of CBL:GRB2 to the membrane				entity_pool	process	complex	association
+Beta-Pix:CDC42:GTP	consumption	Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	Ubiquitination of stimulated EGFR (CBL)				entity_pool	process	complex	process
+Sprouty sequesters CBL away from active EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15L1:EPS15				process	entity_pool	association	complex
+p-Y-PXN:CSK:MyrG,p-Y530-SRC	consumption	Sustained activation of SRC kinase by SHP2				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	consumption	Sprouty sequesters CBL away from active EGFR				entity_pool	process	complex	association
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	catalysis	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix				entity_pool	process	complex	process
+Sustained activation of SRC kinase by SHP2	production	CSK				process	entity_pool	process	macromolecule
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM	catalysis	EGFR phosphorylates EPS15				entity_pool	process	complex	process
+CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	production	EGF-like ligands:p-6Y-EGFR:CBL:GRB2				process	entity_pool	process	complex
+EPS15:HGS:STAM	consumption	EGFR binds EPS15, EPN1, EPS15L1				entity_pool	process	complex	association
+CBL ubiquitinates Sprouty	production	EGF-like ligands:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2				process	entity_pool	process	complex
+EGF-like ligands:EGFR dimer	consumption	Phosphorylation of EGFR by SRC kinase				entity_pool	process	complex	process
+ATP	consumption	SHC1 phosphorylation by phosphorylated EGFR				entity_pool	process	simple chemical	process
+ADAM:Zn2+	catalysis	Pro-EGF is cleaved to form mature EGF				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:CBL:GRB2	consumption	Phosphorylation of CBL (EGFR:GRB2:CBL)				entity_pool	process	complex	process
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)	production	GDP				process	entity_pool	process	simple chemical
+SRC-1	catalysis	Phosphorylation of EGFR by SRC kinase				entity_pool	process	macromolecule	process
+EGF-like ligands:p-6Y-EGFR:CBL:GRB2	catalysis	Phosphorylation of CBL (EGFR:GRB2:CBL)				entity_pool	process	complex	process
+LRIG1	inhibition	EGFR binds EGF ligand				entity_pool	process	macromolecule	association
+Ub	consumption	CBL-mediated ubiquitination of CIN85				entity_pool	process	unspecified entity	process
+CBL:GRB2	consumption	Localization of CBL:GRB2 to the membrane				entity_pool	process	complex	association
+Sustained activation of SRC kinase by SHP2	production	Pi				process	entity_pool	process	simple chemical
+GRB2:GAB1	consumption	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate				entity_pool	process	complex	association
+EGFR activates PLC-gamma1 by phosphorylation	production	EGF-like ligand:p-6Y-EGFR:p-Y472,771,783,1254-PLCG1				process	entity_pool	process	complex
+CBL binds and ubiquitinates phosphorylated Sprouty	production	EGF-like ligands:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2				process	entity_pool	process	complex
+EGFR binds EPS15, EPN1, EPS15L1	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM				process	entity_pool	association	complex
+Localization of CBL:GRB2 to the membrane	production	EGF-like ligands:p-6Y-EGFR:CBL:GRB2				process	entity_pool	association	complex
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:PI3K	catalysis	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)				entity_pool	process	complex	process
+SHP2 dephosphorylates Tyr 992 on EGFR	production	Pi				process	entity_pool	process	simple chemical
+GRB2-1:SOS1	consumption	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	catalysis	CBL-mediated ubiquitination of CIN85				entity_pool	process	complex	process
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	consumption	EGFR binds EPS15, EPN1, EPS15L1				entity_pool	process	complex	association
+EGF-like ligands:p-6Y-EGFR:GRB2:GAB1	catalysis	GAB1 phosphorylation by EGFR kinase				entity_pool	process	complex	process
+EGF-like ligands	consumption	EGFR binds EGF ligand				entity_pool	process	unspecified entity	association
+Active PLC-gamma1 dissociates from EGFR	production	p-4Y-PLCG1				process	entity_pool	dissociation	macromolecule
+EGFR binds EGF ligand	production	EGFR:EGF-like ligands				process	entity_pool	association	complex
+Dephosphorylation of Gab1 by SHP2	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-Y627,659-GAB1:SHP2				process	entity_pool	process	complex
+PTPN12 dephosphorylates EGFR at Y1148 (Y1172)	production	EGF:p-EGFR dimer dephosphorylated at Y1148 (Y1172)				process	entity_pool	process	complex
+Sustained activation of SRC kinase by SHP2	production	PXN:MyrG-SRC				process	entity_pool	process	complex
+GRB2-1	consumption	GRB2-1 binds SOS1				entity_pool	process	macromolecule	association
+Phosphorylation of CBL (EGFR:CBL)	production	ADP				process	entity_pool	process	simple chemical
+CBL	consumption	Binding of CBL to EGFR				entity_pool	process	macromolecule	association

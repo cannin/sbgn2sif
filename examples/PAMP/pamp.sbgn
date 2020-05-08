@@ -1,0 +1,2650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <extension>
+            <renderInformation backgroundColor="#ffffff" id="renderInformation" programName="cd2sbgnml" programVersion="0.1" xmlns="http://www.sbml.org/sbml/level3/version1/render/version1">
+                <listOfColorDefinitions>
+                    <colorDefinition id="color_2" value="#cccc00ff"/>
+                    <colorDefinition id="color_3" value="#ccffccff"/>
+                    <colorDefinition id="color_4" value="#000000ff"/>
+                    <colorDefinition id="color_6" value="#f0f0f0ff"/>
+                    <colorDefinition id="color_7" value="#ffccccff"/>
+                    <colorDefinition id="color_1" value="#ffffff00"/>
+                    <colorDefinition id="color_5" value="#ffffccff"/>
+                    <colorDefinition id="color_8" value="#ffffffff"/>
+                </listOfColorDefinitions>
+                <listOfStyles>
+                    <style id="style_1.0fff0f0f012.0ff000000" idList="s94_sa146 s550_sa404 s551_sa406 s552_sa407">
+                        <g fill="color_6" fontSize="12.0" stroke="color_4" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_1.0ffffcccc12.0ff000000" idList="s14_sa14 s497_sa349 s497_sa354 s497_sa357 s497_sa361 s497_sa363 s500_sa352 s500_sa381 s501_sa353 s501_sa359 s501_sa403 s501_sa408 s502_sa355 s503_sa356 s504_sa360 s504_sa415 s504_sa416 s506_sa362 s529_sa380 s548_sa26 s548_sa27 s548_sa401 s574_sa6">
+                        <g fill="color_7" fontSize="12.0" stroke="color_4" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_13.500ffffff12.0ffcccc00" idList="c1_ca1 c2_ca2 c3_ca3">
+                        <g fill="color_1" fontSize="12.0" stroke="color_2" strokeWidth="13.5"/>
+                    </style>
+                    <style id="style_1.0ffccffcc12.0ff000000" idList="s118_sa390 s122_sa118 s40_sa80 s123_sa348 s123_sa379 s90_sa347 s93_sa120 s148_sa405 s142_sa367 s130_sa127 s131_sa128 s56_sa77 s81_sa145 s126_sa123 s121_sa117 s121_sa154 s98_sa91 s132_sa130 s133_sa131 s60_sa129 s60_sa265 s64_sa337 s125_sa122 s107_sa99 s108_sa101 s543_sa398 s241_sa132 s240_sa133 s238_sa134 s239_sa135 s527_sa377 s528_sa378 s236_sa264 s233_sa266 s482_sa332 s484_sa338 s481_sa331 s483_sa333 s491_sa148 s496_sa119 s496_sa156 s206_sa256 s205_sa255 s512_sa150 s513_sa151 s514_sa152 s515_sa368 s516_sa369 s517_sa370 s518_sa371 s519_sa372 s521_sa373 s522_sa374 s535_sa383 s536_sa384 s537_sa385 s535_sa386 s536_sa387 s537_sa388 s119_sa389 s112_sa392 s545_sa399 s111_sa393 s113_sa394 s547_sa400 s135_sa157">
+                        <g fill="color_3" fontSize="12.0" stroke="color_4" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_1.000ffffff12.0ff000000" idList="pr_06ac9bdb-baed-4307-8485-0e142467a1d6 cons_d3f9577f-c002-4ecd-9aa5-806bd021ecc2 prod_785d1f29-00d1-424c-9ea1-241b4be3efc6 pr_916820f7-18f8-418a-8dc8-100259084a0a cons_5c21e119-ed10-4ef0-8c49-1128c62b84fb prod_9f76408d-527f-44a4-9664-c7508c03ba5d modif_dc190fa8-4982-4c18-9cd1-09cc291ddc24 pr_556c3e83-19d1-43bd-ac47-42d600050362 cons_ab2ca309-2c8f-4fbb-a7d8-7ed17a701cdd prod_d6e7cc7e-3a44-4f8a-8e48-dac293789f0a pr_31358915-ee81-44a1-a97d-7b37bfdd1216 cons_1026a1c7-323f-41bf-bfd4-e0fd651fa4ef prod_7fa00386-ebe3-4e1a-8522-be39e19fe155 pr_13c8067b-60c8-4a58-9c55-d953a2938f85 logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985 cons_b3418c94-80b6-4f76-987f-486e77f3819e prod_4ec0b4fb-efbf-4325-9b5c-335683e0d46f logicarc_24f6def1-778d-4a32-83b4-1782b1c36da1 modif_c4849a43-2906-495c-a44a-0fdd42ca7c70 modif_25cddeb8-56cf-45c8-9289-2dc65103fe4f modif_9088b371-0f22-4219-a461-3efb9b6d0018 pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb cons_7c202da9-ef1a-4958-820b-2fb371c741cf prod_02f8ac58-94e9-4980-a8ab-320c5d1e793e modif_be6f1da1-fa35-4e4f-b327-7971a0ec05e5 modif_597a1639-6118-4f28-bac3-2c46afc7c0f5 pr_839e8c13-71f3-479c-9607-9651d244298f cons_23e8d12c-61e8-4c45-95f0-43e1ab8e9be1 prod_b74dcf46-868c-47ce-9155-4163e28c3631 pr_45971674-7bd1-4a2e-a55d-30890fa74988 cons_7bbe67fc-72b6-4373-bc1e-3a36aafc5826 prod_e83f7396-ccd3-4b81-9c3a-0c38ed7d0bd7 modif_dcb3f817-715f-49bc-8104-32046106b0ff pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01 cons_4b29598b-e0f0-4778-8777-876ad52af4a5 prod_6cadccf0-d372-4425-9379-04405b8bc41b modif_7b5df348-f567-42eb-a606-2ccd0ee5c724 pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4 cons_cfc4a984-8871-4e1c-b507-75c23384d4b4 prod_7724b19c-3d46-4d2f-84c0-b31624e10dd6 pr_0a266bb2-92b2-4220-ab83-64276cb616e8 cons_d0a615ac-9d8c-4ccf-9835-c97393bd8f33 prod_55ffb3fa-5a95-4426-b639-871c93686f2e modif_5c9d2f23-2bbb-4243-959b-74782b836957 modif_ed0440e5-8104-43af-84e7-2a75d8ae4dbd pr_88fb970a-1d02-4eb3-bc28-33ddd872236d cons_ca130c20-c9ec-46d1-9717-7663a4af880e prod_7ee6daf3-ae2e-4b47-8b35-cc32831f59d2 modif_b9c2c500-4196-4030-be2a-63ba0b2dac79 modif_c00aecb7-a3a3-410a-85b7-64e9f5868d43 pr_ec45bb10-8791-4e3e-80d9-681fec998b5e cons_7318d0df-fd69-441f-86a6-f96370d51e85 prod_a4309315-7e34-4d33-90c1-41cad75bdc1d pr_9e67dd7e-879c-48e9-869c-80568c5310e6 cons_df8f5d5f-3b5e-4010-b933-b46bc09ba2d3 prod_740b437e-9af0-459a-8083-b59f8ec3de40 pr_a879270e-0d9b-4900-9950-a6aab63a49af cons_80657600-0a2c-4a32-846b-9bf84d3a962e prod_4ed3f4be-87de-4f91-92d3-174aafc559f5 pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4 cons_46e65f80-e539-49f8-b813-30f1872cbdcc prod_bf803eba-f985-4fb5-894f-bb815286e53a pr_c7bc5377-8405-4d56-ace2-3be73a675216 cons_7cd13724-0db7-4a93-8fdb-8a3e12a5aa7f cons_604fa550-f063-41a0-9285-472688187618 prod_1943d405-3b29-492e-978b-1aeb832522c4 addreact_97bae921-179a-4de9-8651-2437b595c55e addreact_17bf5f2a-f97d-4bca-bb4a-04c1c6f79bce pr_cc9d0172-9978-48e9-b709-3395a7f236bc cons_982fc8b4-ddc8-48d0-a2a4-ddaa9b2461fa cons_29abd94b-2a9a-4c3e-8e47-cd8534fa1e9b prod_bdf1ec96-d794-4158-8dbc-278c09e0c7ac addreact_792b0141-fb7d-4752-ba34-c5358815c93b direct_0e393e85-8839-478e-be91-4d3f5b62a2e6 direct_c229be89-61cb-4749-b0b7-497bddbf8a5b direct_d963236c-8e85-4a6b-a2f7-7d8c45e14863 direct_35c06971-179a-4754-8f7f-01e2d1c8b5be pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce cons_d4b0ef8d-8b85-462f-b58f-7f62e2ba3345 prod_e7b36f96-a09d-49ba-aeca-6ec00c0d28d5 logicarc_357683e8-250e-4a97-a844-55600de77edc modif_ebb9a2b8-e9c7-4bf4-a5e1-e7c0395922ee modif_5d9d0de8-fe46-45cb-a3e9-d93f94194b9d modif_9a44fd0d-f690-4fa0-868d-6c023ad18b22 direct_d2ec1ad7-9343-4abc-8c4a-505fb095e29c pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f cons_8ad8ea83-458e-485b-a367-126c03883fa3 prod_dd492c3a-c7b5-46fb-af43-ac2dc2055341 pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd cons_1bd49e86-1090-4c09-9a1b-c8ca694728d6 prod_fe5d9359-4d35-4b34-ad46-4ceb0017082a modif_6eb9f2af-abac-422c-bacb-bd934fa47eba direct_eb584dc3-8cb2-4428-9eec-f9bbeea47c58 direct_706e487e-578f-4ec5-ad26-253e3139826b direct_7a500050-90d3-45eb-982f-557f35006b48 direct_da19d33c-b370-47de-a796-37800eefdffb direct_89037408-3685-4d16-aaac-6b1d0ce10618 direct_1ab4e271-602d-48de-92f3-0d078e7b4420 direct_4a985d56-d68c-4ba8-9477-72f1a516956d direct_a364b678-e7e2-49b8-a71d-cfcaa04b611e direct_c98aa586-1dda-4d7f-8bd9-50960d1cba5f direct_94d7a166-6ea2-4034-9227-74ba89414f72 direct_9753cc46-c2de-4ab6-b443-0fcab41dacf4 direct_4646d7c1-5ceb-4705-a6b3-3e4b718bf0bb direct_0228d777-9c84-49db-ae9e-b4037544fa49 direct_71e52a6a-d8b6-4509-b410-f6b0df60e924 direct_29cb0265-9f47-453d-a035-d05d4824a530 direct_d151a4db-f994-4c78-9b71-7f41b51475c6 direct_7f069a7b-a3ce-4269-a9de-b7a803e3153d direct_a70701ab-8aa0-4a75-a2e5-10bd2a17ff01 direct_fb4b269b-8b98-4d34-b96f-d423dbfa37b3 direct_549f9870-d438-40d3-94f3-18a16e4a726e direct_21afba36-def0-4728-8389-4ae637ea8bed direct_538f5987-0004-4c7a-b426-de3419ecd1d3 direct_b6305914-ea52-4a70-a139-7ea3a60c9bfa direct_c2aba849-4788-463b-9e52-5ad0328335c8 direct_257936b6-1b56-4edb-a493-cef2eaf0f765 direct_14b43dfb-5c0f-444f-95ac-9cf8a8be64de direct_5ebd697f-39e4-4e27-95d0-8419e8ba1b11 pr_5a260324-4f0a-4322-ab4e-9cb8f960754e cons_710d97c5-ba99-45f3-b59c-b073ce4890de prod_c8fef02a-da4b-4615-a702-5c4727b051a4 pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b cons_5a6092d3-584b-4d46-ad73-fa767cad9aa6 prod_9daa909c-51ac-4b1c-9e6f-26492eebd92c pr_17b44a2a-027b-45b8-bcd0-0e564ff37840 cons_8532dca3-0775-4576-9cd4-daec19cec0a9 prod_4b4865f3-5082-4a68-afe3-bba1ee09dc38 pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e cons_8ca0fa20-d027-4809-9c2c-953da2548817 prod_f6df2bd6-7b59-4106-aa7f-04604906b9ba direct_2899a9d7-6e4b-48aa-a11f-daeeeea99937 pr_20909734-7c5e-4dfb-86a7-2199c2730579 cons_0d92900a-75bc-4918-a6fe-57ac5706f1a0 cons_19af4271-4e0b-4571-8673-e740acbfb9cb prod_e83e01ac-9906-4088-afed-c6eabb8bcbd2 direct_82440c40-7b87-4d3d-8a93-704425e297c6 direct_8c0b2f37-a37c-4769-95f7-117ee8d8ea99 direct_832ebdbb-a844-4298-8e30-6755a6393372 direct_d93be67c-5892-4995-b282-4dfe0e3e757b direct_7478255a-f5ee-4b20-a8ce-2d110421ac12 pr_2f1f2baf-5e85-408a-ac91-e94b378a3246 cons_076c6aa6-72ef-4f56-af91-6ec42ad6afc0 prod_9bb91098-72c0-46cc-811b-a9d159fc145c modif_60501b13-75c1-4480-aad2-3ddd9fff7b3b pr_e8548d00-a1ef-4c43-9cff-49a017c52a34 cons_eee0f307-bf1a-4682-9a84-8a700cf2a3fd prod_cc1847b7-d5f2-4db3-93b1-de93fa8da12f modif_ab212db9-3533-43c4-8d8b-22c7a1440a3d pr_428d8765-1b16-43a3-a14c-521ae8fc71ea cons_d553ff0a-f9c2-4ca2-99a1-4d178665ebeb prod_45cf1726-7ee2-4b9d-965b-7a1fb106298f modif_8cf03325-b3fb-4d25-855f-50f1a4b7b62c direct_4ca63665-0a40-45f3-ad83-a2a0b4a335e1 direct_589a70dc-d83e-4e8b-854a-55bdb89177e9 direct_86b35698-d111-48cc-a276-e636786c6f25 direct_570da69c-1e8d-4080-bb03-cd2cf6fee2d7">
+                        <g fill="color_1" fontSize="12.0" stroke="color_4" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_1.0ffffffcc12.0ff000000" idList="s23_sa23 s127_sa124 s25_sa25 s5_sa5 s476_sa326 s477_sa327 s549_sa402">
+                        <g fill="color_5" fontSize="12.0" stroke="color_4" strokeWidth="1.0"/>
+                    </style>
+                    <style id="style_2.0ffffffff12.0ff000000" idList="s424_csa9 s456_csa32 s388_csa79 s478_csa56 s511_csa75 s520_csa77 s530_csa80 s538_csa82 s538_csa83 s544_csa86 s546_csa84 s563_csa81 s576_csa87">
+                        <g fill="color_8" fontSize="12.0" stroke="color_4" strokeWidth="2.0"/>
+                    </style>
+                </listOfStyles>
+            </renderInformation>
+        </extension>
+        <glyph class="compartment" id="c1_ca1">
+            <label text="Cell">
+                <bbox w="25.0" h="10.0" x="137.5" y="2528.0"/>
+            </label>
+            <bbox w="1840.0" h="2495.0" x="85.0" y="75.0"/>
+        </glyph>
+        <glyph class="compartment" id="c2_ca2" compartmentRef="c1_ca1">
+            <label text="endosome">
+                <bbox w="45.0" h="10.0" x="559.0" y="283.0"/>
+            </label>
+            <bbox w="665.0" h="237.75" x="295.0" y="257.25"/>
+        </glyph>
+        <glyph class="compartment" id="c3_ca3" compartmentRef="c1_ca1">
+            <label text="nucleus">
+                <bbox w="40.0" h="10.0" x="888.875" y="2439.375"/>
+            </label>
+            <bbox w="1419.25" h="231.75" x="335.375" y="2249.125"/>
+        </glyph>
+        <glyph class="macromolecule" id="s118_sa390" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s118_sa390">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:1509"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CASP8"/>
+            <bbox w="80.0" h="40.0" x="1315.0" y="1665.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s23_sa23" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s23_sa23">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:19102"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="DDX58"/>
+            <bbox w="80.0" h="50.0" x="1275.5" y="341.5"/>
+            <glyph class="state variable" id="_26f0ed7b-f1cc-4f57-9a42-4160ada7a7a6">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="1350.5" y="374.29474"/>
+            </glyph>
+            <glyph class="unit of information" id="_fbe02fb4-72fd-49f9-999d-526055f744fb">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="1293.0" y="336.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s127_sa124" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s127_sa124">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:19102"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="DDX58"/>
+            <bbox w="80.0" h="50.0" x="1275.5" y="581.5"/>
+            <glyph class="state variable" id="_5d87e8a6-1743-4509-8ad3-e1198e48f693">
+                <state value="Ub" variable=""/>
+                <bbox w="20.0" h="10.0" x="1345.5" y="614.29474"/>
+            </glyph>
+            <glyph class="unit of information" id="_7b4bc0bb-86d9-4a88-8961-fcc37dfed536">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="1293.0" y="576.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="source and sink" id="s94_sa146" compartmentRef="c1_ca1">
+            <label text="Degradation of NFKBIA"/>
+            <bbox w="30.0" h="30.0" x="1160.5" y="2056.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s122_sa118" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s122_sa118">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:14552"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IKBKE"/>
+            <bbox w="80.0" h="40.0" x="455.0" y="915.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s40_sa80" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s40_sa80">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6112"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRAK1"/>
+            <bbox w="80.0" h="40.0" x="645.0" y="675.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s123_sa348" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s123_sa348">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="250.0" y="1105.0"/>
+            <glyph class="state variable" id="_a77870a3-babc-4798-bafd-f41c4db33876">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="325.0" y="1139.6458"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s123_sa379" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s123_sa379">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1790.0" y="1705.0"/>
+            <glyph class="state variable" id="_d8b46d0c-99d6-4f4c-9b40-1ee2a820f4ff">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="1865.0" y="1739.6458"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s90_sa347" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s90_sa347">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6122"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF7"/>
+            <bbox w="80.0" h="40.0" x="535.0" y="1125.0"/>
+            <glyph class="state variable" id="_1878f7cc-f51b-4d8f-976d-9e2063631620">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="607.82324" y="1160.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s93_sa120" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s93_sa120">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6122"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF7"/>
+            <bbox w="80.0" h="40.0" x="535.0" y="1445.0"/>
+            <glyph class="state variable" id="_99726215-422b-4807-8469-c905fe7a9c21">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="605.32324" y="1480.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s148_sa405" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s148_sa405">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:13890"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="ITCH"/>
+            <bbox w="80.0" h="40.0" x="1025.0" y="635.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s142_sa367" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s142_sa367">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6859"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP3K7"/>
+            <bbox w="80.0" h="40.0" x="895.0" y="1345.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s130_sa127" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s130_sa127">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:29233"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAVS"/>
+            <bbox w="80.0" h="40.0" x="1300.0" y="700.0"/>
+        </glyph>
+        <glyph class="macromolecule multimer" id="s131_sa128" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s131_sa128">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:29233"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAVS"/>
+            <bbox w="104.0" h="64.0" x="1363.0" y="803.0"/>
+            <glyph class="unit of information" id="_158206a2-207c-4c92-a317-551993072fd4">
+                <label text="N:5"/>
+                <bbox w="20.0" h="10.0" x="1405.0" y="798.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s25_sa25" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s25_sa25">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:18873"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IFIH1"/>
+            <bbox w="80.0" h="50.0" x="1480.0" y="340.0"/>
+            <glyph class="unit of information" id="_88aec679-7dc3-4812-bfba-1f12de773482">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="1497.5" y="335.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s56_sa77" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s56_sa77">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:7562"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MYD88"/>
+            <bbox w="80.0" h="40.0" x="740.5" y="531.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s81_sa145" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s81_sa145">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:7797"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="NFKBIA"/>
+            <bbox w="80.0" h="40.0" x="1265.5" y="2051.5"/>
+            <glyph class="state variable" id="_243d0cc1-d8dc-467d-8ed9-149701d699bb">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="1338.0" y="2086.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s126_sa123" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s126_sa123">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:21158"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="RNF135"/>
+            <bbox w="80.0" h="40.0" x="1115.0" y="510.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s121_sa117" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s121_sa117">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:11584"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TBK1"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="345.0" y="970.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s121_sa154" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s121_sa154">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:11584"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TBK1"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1690.0" y="1470.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s98_sa91" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s98_sa91">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:18348"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TICAM1"/>
+            <bbox w="80.0" h="40.0" x="175.0" y="535.0"/>
+        </glyph>
+        <glyph class="macromolecule multimer" id="s5_sa5" compartmentRef="c2_ca2">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s5_sa5">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:11849"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TLR3"/>
+            <bbox w="86.0" h="56.0" x="358.5" y="399.0"/>
+            <glyph class="unit of information" id="_cbe107f8-83df-49aa-bfc3-b1bd2b1812ea">
+                <label text="N:2"/>
+                <bbox w="20.0" h="10.0" x="391.5" y="394.0"/>
+            </glyph>
+            <glyph class="unit of information" id="_b35163fe-06b9-480f-aa5b-72c054152446">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="379.0" y="394.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s132_sa130" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s132_sa130">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12032"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF2"/>
+            <bbox w="80.0" h="40.0" x="1215.0" y="765.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s133_sa131" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s133_sa131">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12035"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF5"/>
+            <bbox w="80.0" h="40.0" x="1140.0" y="820.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s60_sa129" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s60_sa129">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12036"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF6"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1070.0" y="870.0"/>
+            <glyph class="state variable" id="_568099dc-af92-4813-8497-6be6e0c84b70">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="1144.0472" y="905.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s60_sa265" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s60_sa265">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12036"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF6"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="970.0" y="895.0"/>
+            <glyph class="state variable" id="_fe2bbd73-e909-4c1d-be29-179b005c7e03">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="1044.0472" y="930.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s64_sa337" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s64_sa337">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12036"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRAF6"/>
+            <bbox w="80.0" h="40.0" x="1120.0" y="1205.0"/>
+            <glyph class="state variable" id="_f8cef520-b143-44c0-9210-fbd469d124aa">
+                <state value="Ub" variable=""/>
+                <bbox w="20.0" h="10.0" x="1189.0472" y="1240.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s125_sa122" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s125_sa122">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12932"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRIM25"/>
+            <bbox w="80.0" h="40.0" x="1115.0" y="425.0"/>
+        </glyph>
+        <glyph class="nucleic acid feature" id="s14_sa14" compartmentRef="c2_ca2">
+            <label text="ssRNA"/>
+            <bbox w="90.0" h="25.0" x="735.0" y="322.5"/>
+            <glyph class="unit of information" id="_33e975bb-bd1d-4eee-adfc-9a82c708d51c">
+                <label text="RNA"/>
+                <bbox w="20.0" h="10.0" x="770.0" y="317.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s424_csa9" compartmentRef="c1_ca1">
+            <label text="TICAM1:TRAF3:TRAF6"/>
+            <bbox w="110.0" h="159.0" x="160.0" y="615.5"/>
+            <glyph class="macromolecule" id="s107_sa99">
+                <label text="TICAM1"/>
+                <bbox w="80.0" h="40.0" x="175.0" y="625.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s108_sa101">
+                <label text="TRAF6"/>
+                <bbox w="80.0" h="40.0" x="175.0" y="705.0"/>
+                <glyph class="state variable" id="_6448ec2f-dc8b-4b01-a815-080d877137eb">
+                    <state value="" variable=""/>
+                    <bbox w="10.0" h="10.0" x="249.04724" y="740.0"/>
+                </glyph>
+            </glyph>
+            <glyph class="macromolecule" id="s543_sa398">
+                <label text="RIPK1"/>
+                <bbox w="80.0" h="40.0" x="175.0" y="665.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s456_csa32" compartmentRef="c1_ca1">
+            <label text="MAVS:TRAF"/>
+            <bbox w="180.0" h="181.0" x="1165.0" y="984.5"/>
+            <glyph class="macromolecule multimer" id="s241_sa132">
+                <label text="MAVS"/>
+                <bbox w="104.0" h="64.0" x="1185.0" y="995.7059"/>
+                <glyph class="unit of information" id="_fbb4c0e5-2c40-440a-8cfb-b56cf20ccea1">
+                    <label text="N:5"/>
+                    <bbox w="20.0" h="10.0" x="1227.0" y="990.7059"/>
+                </glyph>
+            </glyph>
+            <glyph class="macromolecule" id="s240_sa133">
+                <label text="TRAF5"/>
+                <bbox w="80.0" h="40.0" x="1255.0" y="1060.5"/>
+            </glyph>
+            <glyph class="macromolecule" id="s238_sa134">
+                <label text="TRAF6"/>
+                <bbox w="80.0" h="40.0" x="1220.0" y="1100.5"/>
+                <glyph class="state variable" id="_f0d81648-ca41-4aea-bd14-c2eacb9d8129">
+                    <state value="" variable=""/>
+                    <bbox w="10.0" h="10.0" x="1294.0472" y="1135.5"/>
+                </glyph>
+            </glyph>
+            <glyph class="macromolecule" id="s239_sa135">
+                <label text="TRAF2"/>
+                <bbox w="80.0" h="40.0" x="1175.0" y="1060.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s388_csa79" compartmentRef="c3_ca3">
+            <label text="AP1"/>
+            <bbox w="93.0" h="125.0" x="883.625" y="2293.125"/>
+            <glyph class="macromolecule" id="s527_sa377">
+                <label text="FOS"/>
+                <bbox w="80.0" h="40.0" x="890.125" y="2350.625"/>
+            </glyph>
+            <glyph class="macromolecule" id="s528_sa378">
+                <label text="JUN"/>
+                <bbox w="80.0" h="40.0" x="890.125" y="2300.625"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s476_sa326" compartmentRef="c2_ca2">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s476_sa326">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:15631"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TLR7"/>
+            <bbox w="80.0" h="50.0" x="690.0" y="400.0"/>
+            <glyph class="unit of information" id="_05ac990d-fcc7-4cc6-b51c-fad77eeeffd7">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="707.5" y="395.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s477_sa327" compartmentRef="c2_ca2">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s477_sa327">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:15632"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TLR8"/>
+            <bbox w="80.0" h="50.0" x="790.0" y="400.0"/>
+            <glyph class="unit of information" id="_a6479153-6e80-4ba0-97af-bf53e8e77803">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="807.5" y="395.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s478_csa56" compartmentRef="c1_ca1">
+            <label text="MYD88:IRAK:TRAF"/>
+            <bbox w="109.0" h="213.5" x="726.0" y="844.75"/>
+            <glyph class="macromolecule" id="s236_sa264">
+                <label text="MYD88"/>
+                <bbox w="80.0" h="40.0" x="740.0" y="855.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s233_sa266">
+                <label text="IRAK1"/>
+                <bbox w="80.0" h="40.0" x="740.0" y="943.25"/>
+            </glyph>
+            <glyph class="macromolecule" id="s482_sa332">
+                <label text="IRAK4"/>
+                <bbox w="80.0" h="40.0" x="740.0" y="900.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s484_sa338">
+                <label text="TRAF6"/>
+                <bbox w="80.0" h="40.0" x="740.0" y="988.25"/>
+                <glyph class="state variable" id="_456a245b-67d4-494d-84b4-98b99095a1ad">
+                    <state value="" variable=""/>
+                    <bbox w="10.0" h="10.0" x="814.04724" y="1023.25"/>
+                </glyph>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s481_sa331" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s481_sa331">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12492"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="UBE2N"/>
+            <bbox w="80.0" h="40.0" x="855.5" y="866.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s483_sa333" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s483_sa333">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:17967"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRAK4"/>
+            <bbox w="80.0" h="40.0" x="645.0" y="730.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s491_sa148" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s491_sa148">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:7797"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="NFKBIA"/>
+            <bbox w="80.0" h="40.0" x="1405.5" y="1846.5"/>
+            <glyph class="state variable" id="_2c18d452-713d-40ea-a957-918d6270a083">
+                <state value="" variable=""/>
+                <bbox w="10.0" h="10.0" x="1480.5" y="1881.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s496_sa119" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s496_sa119">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="400.5" y="1441.5"/>
+            <glyph class="state variable" id="_21e964dd-48a4-4800-8f14-cd8b349adde1">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="473.0" y="1476.1458"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s496_sa156" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s496_sa156">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1630.0" y="1940.0"/>
+            <glyph class="state variable" id="_5505e5b2-82be-45dd-8340-0de197b34194">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="1702.5" y="1974.6458"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule multimer" id="s206_sa256" compartmentRef="c3_ca3">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s206_sa256">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <bbox w="86.0" h="46.0" x="397.625" y="2296.3782"/>
+            <glyph class="unit of information" id="_ffee299e-a6e1-4e47-8feb-50f2d6dbe15b">
+                <label text="N:2"/>
+                <bbox w="20.0" h="10.0" x="430.625" y="2291.3782"/>
+            </glyph>
+            <glyph class="state variable" id="_e7836134-f6db-4adb-a852-c2d3f990f949">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="476.125" y="2336.9707"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule multimer" id="s205_sa255" compartmentRef="c3_ca3">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s205_sa255">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6122"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF7"/>
+            <bbox w="86.0" h="46.0" x="531.625" y="2296.125"/>
+            <glyph class="unit of information" id="_d379987f-ff03-4496-aa93-190ecf310c2f">
+                <label text="N:2"/>
+                <bbox w="20.0" h="10.0" x="564.625" y="2291.125"/>
+            </glyph>
+            <glyph class="state variable" id="_0b8f715d-a713-44b0-8dc8-370fcb8a1d83">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="607.785" y="2337.125"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s497_sa349" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s497_sa349">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476807"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="605.0" y="915.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s497_sa354" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s497_sa354">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476807"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1380.0" y="410.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s497_sa357" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s497_sa357">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476807"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="345.0" y="1200.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s497_sa361" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s497_sa361">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476807"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1695.0" y="1220.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s497_sa363" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s497_sa363">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476807"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp3"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1215.0" y="1285.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s500_sa352" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s500_sa352">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1798174255"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="N"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1380.0" y="470.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s500_sa381" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s500_sa381">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1798174255"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="N"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1535.0" y="2020.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s501_sa353" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s501_sa353">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318601"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="M"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1375.0" y="285.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s501_sa359" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s501_sa359">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318601"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="M"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1145.0" y="1935.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s501_sa403" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s501_sa403">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318601"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="M"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="495.0" y="755.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s501_sa408" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s501_sa408">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318601"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="M"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1695.0" y="1310.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s502_sa355" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s502_sa355">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318604"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Orf8"/>
+            <bbox w="80.0" h="40.0" x="250.0" y="1200.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s503_sa356" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s503_sa356">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:uniprot:P59633"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Orf3b"/>
+            <bbox w="80.0" h="40.0" x="250.0" y="1020.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s504_sa360" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s504_sa360">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476818"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp15"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1375.0" y="230.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s504_sa415" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s504_sa415">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476818"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp15"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="1609.5" y="343.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s504_sa416" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s504_sa416">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1802476818"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Nsp15"/>
+            <clone/>
+            <bbox w="80.0" h="40.0" x="645.0" y="1670.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s506_sa362" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s506_sa362">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:uniprot:P59636"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="Orf9"/>
+            <bbox w="80.0" h="40.0" x="885.0" y="635.0"/>
+        </glyph>
+        <glyph class="complex" id="s511_csa75" compartmentRef="c1_ca1">
+            <label text="IKK Complex"/>
+            <bbox w="110.0" h="180.0" x="1130.5" y="1691.5"/>
+            <glyph class="macromolecule" id="s512_sa150">
+                <label text="CHUK"/>
+                <bbox w="80.0" h="40.0" x="1145.5" y="1756.5"/>
+            </glyph>
+            <glyph class="macromolecule" id="s513_sa151">
+                <label text="IKBKG"/>
+                <bbox w="80.0" h="40.0" x="1145.5" y="1706.5"/>
+            </glyph>
+            <glyph class="macromolecule" id="s514_sa152">
+                <label text="IKBKB"/>
+                <bbox w="80.0" h="40.0" x="1145.5" y="1806.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s515_sa368" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s515_sa368">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6876"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAPK14"/>
+            <bbox w="80.0" h="40.0" x="810.5" y="1796.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s516_sa369" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s516_sa369">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6843"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K3"/>
+            <bbox w="80.0" h="40.0" x="840.0" y="1585.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s517_sa370" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s517_sa370">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6846"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K6"/>
+            <bbox w="80.0" h="40.0" x="745.0" y="1585.0"/>
+        </glyph>
+        <glyph class="macromolecule" id="s518_sa371" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s518_sa371">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6844"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K4"/>
+            <bbox w="80.0" h="40.0" x="945.5" y="1586.5"/>
+        </glyph>
+        <glyph class="macromolecule" id="s519_sa372" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s519_sa372">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6847"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="MAP2K7"/>
+            <bbox w="80.0" h="40.0" x="1035.5" y="1586.5"/>
+        </glyph>
+        <glyph class="complex" id="s520_csa77" compartmentRef="c1_ca1">
+            <label text="JNK"/>
+            <bbox w="100.0" h="120.0" x="980.5" y="1756.5"/>
+            <glyph class="macromolecule" id="s521_sa373">
+                <label text="MAPK8"/>
+                <bbox w="80.0" h="40.0" x="990.5" y="1766.5"/>
+            </glyph>
+            <glyph class="macromolecule" id="s522_sa374">
+                <label text="MAPK9"/>
+                <bbox w="80.0" h="40.0" x="990.5" y="1811.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s529_sa380" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s529_sa380">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:ncbiprotein:1796318600"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="E"/>
+            <bbox w="80.0" h="40.0" x="895.5" y="1911.5"/>
+        </glyph>
+        <glyph class="complex" id="s530_csa80" compartmentRef="c1_ca1">
+            <label text="NFKB"/>
+            <bbox w="105.0" h="65.0" x="1392.5" y="2007.5"/>
+        </glyph>
+        <glyph class="complex" id="s538_csa82" compartmentRef="c1_ca1">
+            <label text="TANK:TRAF3:IKBKE"/>
+            <clone/>
+            <bbox w="105.0" h="160.0" x="1517.5" y="1210.0"/>
+            <glyph class="macromolecule" id="s535_sa383">
+                <label text="TRAF3"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="1530.0" y="1220.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s536_sa384">
+                <label text="TANK"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="1530.0" y="1260.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s537_sa385">
+                <label text="IKBKE"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="1530.0" y="1300.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s538_csa83" compartmentRef="c1_ca1">
+            <label text="TANK:TRAF3:IKBKE"/>
+            <clone/>
+            <bbox w="105.0" h="160.0" x="332.5" y="735.0"/>
+            <glyph class="macromolecule" id="s535_sa386">
+                <label text="TRAF3"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="345.0" y="745.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s536_sa387">
+                <label text="TANK"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="345.0" y="785.0"/>
+            </glyph>
+            <glyph class="macromolecule" id="s537_sa388">
+                <label text="IKBKE"/>
+                <clone/>
+                <bbox w="80.0" h="40.0" x="345.0" y="825.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s119_sa389" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s119_sa389">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:1500"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="CASP10"/>
+            <bbox w="80.0" h="40.0" x="1405.0" y="1665.0"/>
+        </glyph>
+        <glyph class="complex" id="s544_csa86" compartmentRef="c1_ca1">
+            <label text="MAVS:TRADD"/>
+            <bbox w="110.0" h="140.0" x="1375.0" y="955.0"/>
+            <glyph class="macromolecule" id="s112_sa392">
+                <label text="TRADD"/>
+                <bbox w="80.0" h="40.0" x="1390.0" y="1030.0"/>
+            </glyph>
+            <glyph class="macromolecule multimer" id="s545_sa399">
+                <label text="MAVS"/>
+                <bbox w="104.0" h="64.0" x="1378.0" y="963.0"/>
+                <glyph class="unit of information" id="_9101a096-b9e1-4280-b22b-15430a461a49">
+                    <label text="N:5"/>
+                    <bbox w="20.0" h="10.0" x="1420.0" y="958.0"/>
+                </glyph>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s546_csa84" compartmentRef="c1_ca1">
+            <label text="RIPK1:FADD"/>
+            <bbox w="96.5" h="117.0" x="1353.5" y="1453.0"/>
+            <glyph class="macromolecule" id="s111_sa393">
+                <label text="FADD"/>
+                <bbox w="80.0" h="40.0" x="1365.2435" y="1502.3846"/>
+            </glyph>
+            <glyph class="macromolecule" id="s113_sa394">
+                <label text="RIPK1"/>
+                <bbox w="80.0" h="40.0" x="1365.2435" y="1462.3846"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s547_sa400" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s547_sa400">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:12030"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="TRADD"/>
+            <bbox w="80.0" h="40.0" x="1475.0" y="880.0"/>
+        </glyph>
+        <glyph class="nucleic acid feature" id="s548_sa26" compartmentRef="c1_ca1">
+            <label text="dsRNA"/>
+            <clone/>
+            <bbox w="90.0" h="25.0" x="1270.0" y="122.5"/>
+            <glyph class="unit of information" id="_86feff15-1bef-44a6-a881-999b4daa8359">
+                <label text="RNA"/>
+                <bbox w="20.0" h="10.0" x="1305.0" y="117.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="nucleic acid feature" id="s548_sa27" compartmentRef="c1_ca1">
+            <label text="dsRNA"/>
+            <clone/>
+            <bbox w="90.0" h="25.0" x="1474.5" y="121.0"/>
+            <glyph class="unit of information" id="_f41e6a60-0d67-4dbb-a09e-cad9a8a5a45c">
+                <label text="RNA"/>
+                <bbox w="20.0" h="10.0" x="1509.5" y="116.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="nucleic acid feature" id="s548_sa401" compartmentRef="c1_ca1">
+            <label text="dsRNA"/>
+            <clone/>
+            <bbox w="90.0" h="25.0" x="665.0" y="1427.5"/>
+            <glyph class="unit of information" id="_21cb7161-e9d2-4cfe-b6dd-fe45c1d7889d">
+                <label text="RNA"/>
+                <bbox w="20.0" h="10.0" x="700.0" y="1422.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="macromolecule" id="s549_sa402" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s549_sa402">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:9437"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="EIF2AK2"/>
+            <bbox w="80.0" h="50.0" x="670.0" y="1495.0"/>
+            <glyph class="unit of information" id="_f2582ca2-132b-4895-9e47-8026a606aa04">
+                <label text="receptor"/>
+                <bbox w="45.0" h="10.0" x="687.5" y="1490.0"/>
+            </glyph>
+        </glyph>
+        <glyph class="source and sink" id="s550_sa404" compartmentRef="c1_ca1">
+            <label text="s550"/>
+            <bbox w="30.0" h="30.0" x="1165.0" y="735.0"/>
+        </glyph>
+        <glyph class="source and sink" id="s551_sa406" compartmentRef="c1_ca1">
+            <label text="s551"/>
+            <bbox w="30.0" h="30.0" x="1095.0" y="795.0"/>
+        </glyph>
+        <glyph class="source and sink" id="s552_sa407" compartmentRef="c1_ca1">
+            <label text="s552"/>
+            <bbox w="30.0" h="30.0" x="1205.0" y="705.0"/>
+        </glyph>
+        <glyph class="complex" id="s563_csa81" compartmentRef="c3_ca3">
+            <label text="NFKB"/>
+            <bbox w="105.0" h="65.0" x="1392.125" y="2291.625"/>
+        </glyph>
+        <glyph class="macromolecule" id="s135_sa157" compartmentRef="c3_ca3">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#s135_sa157">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:hgnc:6118"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <label text="IRF3"/>
+            <bbox w="80.0" h="40.0" x="1629.625" y="2289.125"/>
+            <glyph class="state variable" id="_5864c8b9-affb-4b65-bfbb-47c66654a589">
+                <state value="P" variable=""/>
+                <bbox w="15.0" h="10.0" x="1702.125" y="2323.7708"/>
+            </glyph>
+        </glyph>
+        <glyph class="nucleic acid feature" id="s574_sa6" compartmentRef="c2_ca2">
+            <label text="dsRNA"/>
+            <bbox w="90.0" h="25.0" x="360.0" y="312.5"/>
+            <glyph class="unit of information" id="_8ee914ba-098e-4e55-8490-b83e5e5e0a6d">
+                <label text="RNA"/>
+                <bbox w="20.0" h="10.0" x="395.0" y="307.5"/>
+            </glyph>
+        </glyph>
+        <glyph class="complex" id="s576_csa87" compartmentRef="c1_ca1">
+            <label text="ubiquitin-proteasome complex"/>
+            <bbox w="190.0" h="50.0" x="1130.0" y="2150.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_06ac9bdb-baed-4307-8485-0e142467a1d6" compartmentRef="c2_ca2">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_06ac9bdb-baed-4307-8485-0e142467a1d6">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="398.51593" y="363.25"/>
+            <port id="pr_06ac9bdb-baed-4307-8485-0e142467a1d6_p1" x="403.51593" y="353.25"/>
+            <port id="pr_06ac9bdb-baed-4307-8485-0e142467a1d6_p2" x="403.51593" y="383.25"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_916820f7-18f8-418a-8dc8-100259084a0a" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_916820f7-18f8-418a-8dc8-100259084a0a">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1310.2366" y="239.5"/>
+            <port id="pr_916820f7-18f8-418a-8dc8-100259084a0a_p1" x="1315.2366" y="229.5"/>
+            <port id="pr_916820f7-18f8-418a-8dc8-100259084a0a_p2" x="1315.2366" y="259.5"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_556c3e83-19d1-43bd-ac47-42d600050362" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_556c3e83-19d1-43bd-ac47-42d600050362">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:28484023"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1514.7366" y="238.0"/>
+            <port id="pr_556c3e83-19d1-43bd-ac47-42d600050362_p1" x="1519.7366" y="228.0"/>
+            <port id="pr_556c3e83-19d1-43bd-ac47-42d600050362_p2" x="1519.7366" y="258.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_31358915-ee81-44a1-a97d-7b37bfdd1216">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_31358915-ee81-44a1-a97d-7b37bfdd1216">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="394.4442" y="502.77335"/>
+            <port id="pr_31358915-ee81-44a1-a97d-7b37bfdd1216_p1" x="399.4442" y="492.77335"/>
+            <port id="pr_31358915-ee81-44a1-a97d-7b37bfdd1216_p2" x="399.4442" y="522.7733"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_13c8067b-60c8-4a58-9c55-d953a2938f85" compartmentRef="c1_ca1">
+            <notes>
+                <html xmlns="http://www.w3.org/1999/xhtml" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner">
+                    <head>
+                        <title/>
+</head>
+                    <body>the SARS-CoV N protein was found to bind to the SPRY domain of the tripartite motif protein 25 (TRIM25) E3 ubiquitin ligase, thereby interfering with the association between TRIM25 and retinoic acid-inducible gene I (RIG-I) and inhibiting TRIM25-mediated RIG-I ubiquitination and activation. (293T, HeLa, A549, Veros, and Calu-3 cell lines)
+</body>
+</html>
+            </notes>
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_13c8067b-60c8-4a58-9c55-d953a2938f85">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25581309"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:28148787"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1310.5" y="481.5"/>
+            <port id="pr_13c8067b-60c8-4a58-9c55-d953a2938f85_p1" x="1315.5" y="471.5"/>
+            <port id="pr_13c8067b-60c8-4a58-9c55-d953a2938f85_p2" x="1315.5" y="501.5"/>
+        </glyph>
+        <glyph class="or" orientation="horizontal" id="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985" compartmentRef="c1_ca1">
+            <bbox w="20.0" h="20.0" x="1255.0" y="480.0"/>
+            <port id="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985_p1" x="1245.0" y="490.0"/>
+            <port id="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985_p2" x="1285.0" y="490.0"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb" compartmentRef="c1_ca1">
+            <notes>
+                <html xmlns="http://www.w3.org/1999/xhtml" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner">
+                    <head>
+                        <title/>
+</head>
+                    <body>CARD dependant self polymerization
+</body>
+</html>
+            </notes>
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25581309"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1392.5" y="715.0"/>
+            <port id="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb_p1" x="1382.5" y="720.0"/>
+            <port id="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb_p2" x="1412.5" y="720.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_839e8c13-71f3-479c-9607-9651d244298f">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_839e8c13-71f3-479c-9607-9651d244298f">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1439.8125" y="2177.0625"/>
+            <port id="pr_839e8c13-71f3-479c-9607-9651d244298f_p1" x="1444.8125" y="2167.0625"/>
+            <port id="pr_839e8c13-71f3-479c-9607-9651d244298f_p2" x="1444.8125" y="2197.0625"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_45971674-7bd1-4a2e-a55d-30890fa74988" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_45971674-7bd1-4a2e-a55d-30890fa74988">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1223.0" y="2066.5"/>
+            <port id="pr_45971674-7bd1-4a2e-a55d-30890fa74988_p1" x="1243.0" y="2071.5"/>
+            <port id="pr_45971674-7bd1-4a2e-a55d-30890fa74988_p2" x="1213.0" y="2071.5"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25581309"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1723.25" y="1717.7354"/>
+            <port id="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01_p1" x="1743.25" y="1722.7354"/>
+            <port id="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01_p2" x="1713.25" y="1722.7354"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25581309"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1664.8125" y="2129.5625"/>
+            <port id="pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4_p1" x="1669.8125" y="2119.5625"/>
+            <port id="pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4_p2" x="1669.8125" y="2149.5625"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_0a266bb2-92b2-4220-ab83-64276cb616e8" compartmentRef="c1_ca1">
+            <notes>
+                <html xmlns="http://www.w3.org/1999/xhtml" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner">
+                    <head>
+                        <title/>
+</head>
+                    <body>PLpro interacts with IRF-3 and inhibits the phosphorylation and nuclear translocation of IRF-3, thereby disrupting the activation of type I IFN responses through either Toll-like receptor 3 or retinoic acid-inducible gene I/melanoma differentiation-associated gene 5 pathways. (in  human lung/bronchial epithelial cells)
+</body>
+</html>
+            </notes>
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_0a266bb2-92b2-4220-ab83-64276cb616e8">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:17761676"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="380.0" y="1120.0"/>
+            <port id="pr_0a266bb2-92b2-4220-ab83-64276cb616e8_p1" x="370.0" y="1125.0"/>
+            <port id="pr_0a266bb2-92b2-4220-ab83-64276cb616e8_p2" x="400.0" y="1125.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_88fb970a-1d02-4eb3-bc28-33ddd872236d">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="570.0" y="1300.0"/>
+            <port id="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d_p1" x="575.0" y="1290.0"/>
+            <port id="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d_p2" x="575.0" y="1320.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_ec45bb10-8791-4e3e-80d9-681fec998b5e">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_ec45bb10-8791-4e3e-80d9-681fec998b5e">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="435.5625" y="1883.9391"/>
+            <port id="pr_ec45bb10-8791-4e3e-80d9-681fec998b5e_p1" x="440.5625" y="1873.9391"/>
+            <port id="pr_ec45bb10-8791-4e3e-80d9-681fec998b5e_p2" x="440.5625" y="1903.9391"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_9e67dd7e-879c-48e9-869c-80568c5310e6">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_9e67dd7e-879c-48e9-869c-80568c5310e6">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="569.8125" y="1885.5625"/>
+            <port id="pr_9e67dd7e-879c-48e9-869c-80568c5310e6_p1" x="574.8125" y="1875.5625"/>
+            <port id="pr_9e67dd7e-879c-48e9-869c-80568c5310e6_p2" x="574.8125" y="1905.5625"/>
+        </glyph>
+        <glyph class="uncertain process" orientation="vertical" id="pr_a879270e-0d9b-4900-9950-a6aab63a49af" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_a879270e-0d9b-4900-9950-a6aab63a49af">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="380.25" y="927.5017"/>
+            <port id="pr_a879270e-0d9b-4900-9950-a6aab63a49af_p1" x="385.25" y="917.5017"/>
+            <port id="pr_a879270e-0d9b-4900-9950-a6aab63a49af_p2" x="385.25" y="947.5017"/>
+        </glyph>
+        <glyph class="uncertain process" orientation="horizontal" id="pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="461.43707" y="810.1085"/>
+            <port id="pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4_p1" x="451.43707" y="815.1085"/>
+            <port id="pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4_p2" x="481.43707" y="815.1085"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_c7bc5377-8405-4d56-ace2-3be73a675216" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_c7bc5377-8405-4d56-ace2-3be73a675216">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25581309"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1250.0" y="906.75"/>
+            <port id="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p1" x="1255.0" y="896.75"/>
+            <port id="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p2" x="1255.0" y="926.75"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_cc9d0172-9978-48e9-b709-3395a7f236bc" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_cc9d0172-9978-48e9-b709-3395a7f236bc">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:15383579"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="775.5" y="766.875"/>
+            <port id="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p1" x="780.5" y="756.875"/>
+            <port id="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p2" x="780.5" y="786.875"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:19366914"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1004.1715" y="1070.2764"/>
+            <port id="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec_p1" x="1009.1715" y="1060.2764"/>
+            <port id="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec_p2" x="1009.1715" y="1090.2764"/>
+        </glyph>
+        <glyph class="and" orientation="horizontal" id="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce" compartmentRef="c1_ca1">
+            <bbox w="20.0" h="20.0" x="885.5" y="941.5"/>
+            <port id="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce_p1" x="875.5" y="951.5"/>
+            <port id="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce_p2" x="915.5" y="951.5"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:19366914"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1154.0" y="1463.25"/>
+            <port id="pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f_p1" x="1159.0" y="1453.25"/>
+            <port id="pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f_p2" x="1159.0" y="1483.25"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:19366914"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1348.75" y="1859.1023"/>
+            <port id="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd_p1" x="1368.75" y="1864.1023"/>
+            <port id="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd_p2" x="1338.75" y="1864.1023"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_5a260324-4f0a-4322-ab4e-9cb8f960754e" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_5a260324-4f0a-4322-ab4e-9cb8f960754e">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1418.375" y="1612.5"/>
+            <port id="pr_5a260324-4f0a-4322-ab4e-9cb8f960754e_p1" x="1423.375" y="1602.5"/>
+            <port id="pr_5a260324-4f0a-4322-ab4e-9cb8f960754e_p2" x="1423.375" y="1632.5"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1292.8271" y="1730.7056"/>
+            <port id="pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b_p1" x="1312.8271" y="1735.7056"/>
+            <port id="pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b_p2" x="1282.8271" y="1735.7056"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_17b44a2a-027b-45b8-bcd0-0e564ff37840" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_17b44a2a-027b-45b8-bcd0-0e564ff37840">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:20303872"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1337.8602" y="1775.6995"/>
+            <port id="pr_17b44a2a-027b-45b8-bcd0-0e564ff37840_p1" x="1357.8602" y="1780.6995"/>
+            <port id="pr_17b44a2a-027b-45b8-bcd0-0e564ff37840_p2" x="1327.8602" y="1780.6995"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:19366914"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1377.4402" y="1612.5"/>
+            <port id="pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e_p1" x="1382.4402" y="1602.5"/>
+            <port id="pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e_p2" x="1382.4402" y="1632.5"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_20909734-7c5e-4dfb-86a7-2199c2730579" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_20909734-7c5e-4dfb-86a7-2199c2730579">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:19366914"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1425.0" y="924.5"/>
+            <port id="pr_20909734-7c5e-4dfb-86a7-2199c2730579_p1" x="1430.0" y="914.5"/>
+            <port id="pr_20909734-7c5e-4dfb-86a7-2199c2730579_p2" x="1430.0" y="944.5"/>
+        </glyph>
+        <glyph class="process" orientation="horizontal" id="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_2f1f2baf-5e85-408a-ac91-e94b378a3246">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25135833"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1262.5" y="715.0"/>
+            <port id="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246_p1" x="1282.5" y="720.0"/>
+            <port id="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246_p2" x="1252.5" y="720.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_e8548d00-a1ef-4c43-9cff-49a017c52a34">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25135833"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1175.0" y="782.0"/>
+            <port id="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34_p1" x="1180.0" y="802.0"/>
+            <port id="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34_p2" x="1180.0" y="772.0"/>
+        </glyph>
+        <glyph class="process" orientation="vertical" id="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea" compartmentRef="c1_ca1">
+            <extension>
+                <annotation xmlns="" xmlns:ns2="http://sbgn.org/libsbgn/0.2">
+                    <rdf:RDF xmlns="http://www.sbml.org/sbml/level2/version4" xmlns:bqmodel="http://biomodels.net/model-qualifiers/" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:celldesigner="http://www.sbml.org/2001/ns/celldesigner" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description rdf:about="#pr_428d8765-1b16-43a3-a14c-521ae8fc71ea">
+                            <bqbiol:isDescribedBy>
+                                <rdf:Bag>
+                                    <rdf:li rdf:resource="urn:miriam:pubmed:25135833"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+</rdf:Description>
+</rdf:RDF>
+                </annotation>
+            </extension>
+            <bbox w="10.0" h="10.0" x="1105.0" y="842.5"/>
+            <port id="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea_p1" x="1110.0" y="862.5"/>
+            <port id="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea_p2" x="1110.0" y="832.5"/>
+        </glyph>
+        <arc class="consumption" id="cons_d3f9577f-c002-4ecd-9aa5-806bd021ecc2" source="s574_sa6" target="pr_06ac9bdb-baed-4307-8485-0e142467a1d6_p1">
+            <start x="404.57108" y="337.5"/>
+            <end x="403.51593" y="353.25"/>
+        </arc>
+        <arc class="production" id="prod_785d1f29-00d1-424c-9ea1-241b4be3efc6" source="pr_06ac9bdb-baed-4307-8485-0e142467a1d6_p2" target="s5_sa5">
+            <start x="403.51593" y="383.25"/>
+            <end x="402.4608" y="399.0"/>
+        </arc>
+        <arc class="consumption" id="cons_5c21e119-ed10-4ef0-8c49-1128c62b84fb" source="s548_sa26" target="pr_916820f7-18f8-418a-8dc8-100259084a0a_p1">
+            <start x="1315.027" y="147.5"/>
+            <end x="1315.2366" y="229.5"/>
+        </arc>
+        <arc class="production" id="prod_9f76408d-527f-44a4-9664-c7508c03ba5d" source="pr_916820f7-18f8-418a-8dc8-100259084a0a_p2" target="s23_sa23">
+            <start x="1315.2366" y="259.5"/>
+            <end x="1315.446" y="341.5"/>
+        </arc>
+        <arc class="inhibition" id="modif_dc190fa8-4982-4c18-9cd1-09cc291ddc24" source="s504_sa360" target="pr_916820f7-18f8-418a-8dc8-100259084a0a">
+            <start x="1375.0" y="247.67387"/>
+            <end x="1320.2366" y="244.4892"/>
+        </arc>
+        <arc class="consumption" id="cons_ab2ca309-2c8f-4fbb-a7d8-7ed17a701cdd" source="s548_sa27" target="pr_556c3e83-19d1-43bd-ac47-42d600050362_p1">
+            <start x="1519.527" y="146.0"/>
+            <end x="1519.7366" y="228.0"/>
+        </arc>
+        <arc class="production" id="prod_d6e7cc7e-3a44-4f8a-8e48-dac293789f0a" source="pr_556c3e83-19d1-43bd-ac47-42d600050362_p2" target="s25_sa25">
+            <start x="1519.7366" y="258.0"/>
+            <end x="1519.946" y="340.0"/>
+        </arc>
+        <arc class="consumption" id="cons_1026a1c7-323f-41bf-bfd4-e0fd651fa4ef" source="s5_sa5" target="pr_31358915-ee81-44a1-a97d-7b37bfdd1216_p1">
+            <start x="401.5" y="455.0"/>
+            <end x="399.4442" y="492.77335"/>
+        </arc>
+        <arc class="production" id="prod_7fa00386-ebe3-4e1a-8522-be39e19fe155" source="pr_31358915-ee81-44a1-a97d-7b37bfdd1216_p2" target="s98_sa91">
+            <start x="399.4442" y="522.7733"/>
+            <next x="397.38846" y="560.5467"/>
+            <end x="255.0" y="555.0"/>
+        </arc>
+        <arc class="consumption" id="cons_b3418c94-80b6-4f76-987f-486e77f3819e" source="s23_sa23" target="pr_13c8067b-60c8-4a58-9c55-d953a2938f85_p1">
+            <start x="1315.5" y="391.5"/>
+            <end x="1315.5" y="471.5"/>
+        </arc>
+        <arc class="production" id="prod_4ec0b4fb-efbf-4325-9b5c-335683e0d46f" source="pr_13c8067b-60c8-4a58-9c55-d953a2938f85_p2" target="s127_sa124">
+            <start x="1315.5" y="501.5"/>
+            <end x="1315.5" y="581.5"/>
+        </arc>
+        <arc class="catalysis" id="logicarc_24f6def1-778d-4a32-83b4-1782b1c36da1" source="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985_p2" target="pr_13c8067b-60c8-4a58-9c55-d953a2938f85">
+            <start x="1285.0" y="490.0"/>
+            <end x="1310.5" y="486.5"/>
+        </arc>
+        <arc class="logic arc" id="modif_c4849a43-2906-495c-a44a-0fdd42ca7c70" source="s126_sa123" target="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985_p1">
+            <start x="1195.0" y="530.0"/>
+            <next x="1249.9231" y="521.38464"/>
+            <end x="1245.0" y="490.0"/>
+        </arc>
+        <arc class="logic arc" id="modif_25cddeb8-56cf-45c8-9289-2dc65103fe4f" source="s125_sa122" target="logicglyph_28bf4188-e97a-4b44-97bd-cd0dabdd9985_p1">
+            <start x="1195.0" y="445.0"/>
+            <next x="1250.8484" y="454.09747"/>
+            <end x="1245.0" y="490.0"/>
+        </arc>
+        <arc class="inhibition" id="modif_9088b371-0f22-4219-a461-3efb9b6d0018" source="s500_sa352" target="pr_13c8067b-60c8-4a58-9c55-d953a2938f85">
+            <start x="1380.0" y="490.0"/>
+            <end x="1320.5" y="486.5"/>
+        </arc>
+        <arc class="consumption" id="cons_7c202da9-ef1a-4958-820b-2fb371c741cf" source="s130_sa127" target="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb_p1">
+            <start x="1380.0" y="720.0"/>
+            <end x="1382.5" y="720.0"/>
+        </arc>
+        <arc class="production" id="prod_02f8ac58-94e9-4980-a8ab-320c5d1e793e" source="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb_p2" target="s131_sa128">
+            <start x="1412.5" y="720.0"/>
+            <next x="1415.0" y="720.0"/>
+            <end x="1415.0" y="803.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_be6f1da1-fa35-4e4f-b327-7971a0ec05e5" source="s127_sa124" target="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb">
+            <start x="1355.5" y="604.6445"/>
+            <next x="1392.5901" y="602.9239"/>
+            <end x="1392.5" y="715.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_597a1639-6118-4f28-bac3-2c46afc7c0f5" source="s25_sa25" target="pr_98aad108-9f41-4bf0-adf0-5216bbb35aeb">
+            <start x="1520.0316" y="390.0"/>
+            <next x="1520.3038" y="604.9044"/>
+            <next x="1405.3496" y="605.05"/>
+            <end x="1402.5" y="715.0"/>
+        </arc>
+        <arc class="consumption" id="cons_23e8d12c-61e8-4c45-95f0-43e1ab8e9be1" source="s530_csa80" target="pr_839e8c13-71f3-479c-9607-9651d244298f_p1">
+            <start x="1444.9572" y="2072.5"/>
+            <end x="1444.8125" y="2167.0625"/>
+        </arc>
+        <arc class="production" id="prod_b74dcf46-868c-47ce-9155-4163e28c3631" source="pr_839e8c13-71f3-479c-9607-9651d244298f_p2" target="s563_csa81">
+            <start x="1444.8125" y="2197.0625"/>
+            <end x="1444.6678" y="2291.625"/>
+        </arc>
+        <arc class="consumption" id="cons_7bbe67fc-72b6-4373-bc1e-3a36aafc5826" source="s81_sa145" target="pr_45971674-7bd1-4a2e-a55d-30890fa74988_p1">
+            <start x="1265.5" y="2071.5"/>
+            <end x="1243.0" y="2071.5"/>
+        </arc>
+        <arc class="production" id="prod_e83f7396-ccd3-4b81-9c3a-0c38ed7d0bd7" source="pr_45971674-7bd1-4a2e-a55d-30890fa74988_p2" target="s94_sa146">
+            <start x="1213.0" y="2071.5"/>
+            <end x="1190.5" y="2071.5"/>
+        </arc>
+        <arc class="catalysis" id="modif_dcb3f817-715f-49bc-8104-32046106b0ff" source="s576_csa87" target="pr_45971674-7bd1-4a2e-a55d-30890fa74988">
+            <start x="1225.7615" y="2150.0"/>
+            <end x="1228.0" y="2076.5"/>
+        </arc>
+        <arc class="consumption" id="cons_4b29598b-e0f0-4778-8777-876ad52af4a5" source="s123_sa379" target="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01_p1">
+            <start x="1790.0" y="1724.1097"/>
+            <end x="1743.25" y="1722.7354"/>
+        </arc>
+        <arc class="production" id="prod_6cadccf0-d372-4425-9379-04405b8bc41b" source="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01_p2" target="s496_sa156">
+            <start x="1713.25" y="1722.7354"/>
+            <next x="1666.5" y="1721.361"/>
+            <end x="1669.7067" y="1940.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_7b5df348-f567-42eb-a606-2ccd0ee5c724" source="s121_sa154" target="pr_96aa8e03-3b52-43b5-94db-24ae1aa20a01">
+            <start x="1729.8561" y="1510.0"/>
+            <end x="1728.3612" y="1717.7366"/>
+        </arc>
+        <arc class="consumption" id="cons_cfc4a984-8871-4e1c-b507-75c23384d4b4" source="s496_sa156" target="pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4_p1">
+            <start x="1669.9785" y="1980.0"/>
+            <end x="1669.8125" y="2119.5625"/>
+        </arc>
+        <arc class="production" id="prod_7724b19c-3d46-4d2f-84c0-b31624e10dd6" source="pr_b5397b0c-1468-4355-9f9f-72b0481a1fd4_p2" target="s135_sa157">
+            <start x="1669.8125" y="2149.5625"/>
+            <end x="1669.6465" y="2289.125"/>
+        </arc>
+        <arc class="consumption" id="cons_d0a615ac-9d8c-4ccf-9835-c97393bd8f33" source="s123_sa348" target="pr_0a266bb2-92b2-4220-ab83-64276cb616e8_p1">
+            <start x="330.0" y="1125.0"/>
+            <end x="370.0" y="1125.0"/>
+        </arc>
+        <arc class="production" id="prod_55ffb3fa-5a95-4426-b639-871c93686f2e" source="pr_0a266bb2-92b2-4220-ab83-64276cb616e8_p2" target="s496_sa119">
+            <start x="400.0" y="1125.0"/>
+            <next x="440.0" y="1125.0"/>
+            <end x="440.5" y="1441.5"/>
+        </arc>
+        <arc class="catalysis" id="modif_5c9d2f23-2bbb-4243-959b-74782b836957" source="s121_sa117" target="pr_0a266bb2-92b2-4220-ab83-64276cb616e8">
+            <start x="385.0" y="1010.0"/>
+            <end x="385.0" y="1120.0"/>
+        </arc>
+        <arc class="inhibition" id="modif_ed0440e5-8104-43af-84e7-2a75d8ae4dbd" source="s497_sa357" target="pr_0a266bb2-92b2-4220-ab83-64276cb616e8">
+            <start x="385.0" y="1200.0"/>
+            <end x="385.0" y="1130.0"/>
+        </arc>
+        <arc class="consumption" id="cons_ca130c20-c9ec-46d1-9717-7663a4af880e" source="s90_sa347" target="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d_p1">
+            <start x="575.0" y="1165.0"/>
+            <end x="575.0" y="1290.0"/>
+        </arc>
+        <arc class="production" id="prod_7ee6daf3-ae2e-4b47-8b35-cc32831f59d2" source="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d_p2" target="s93_sa120">
+            <start x="575.0" y="1320.0"/>
+            <end x="575.0" y="1445.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_b9c2c500-4196-4030-be2a-63ba0b2dac79" source="s122_sa118" target="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d">
+            <start x="494.99524" y="955.0"/>
+            <next x="494.91202" y="1305.4828"/>
+            <end x="570.0" y="1305.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_c00aecb7-a3a3-410a-85b7-64e9f5868d43" source="s478_csa56" target="pr_88fb970a-1d02-4eb3-bc28-33ddd872236d">
+            <start x="780.5" y="1058.25"/>
+            <next x="780.1163" y="1305.4059"/>
+            <end x="580.0" y="1305.0"/>
+        </arc>
+        <arc class="consumption" id="cons_7318d0df-fd69-441f-86a6-f96370d51e85" source="s496_sa119" target="pr_ec45bb10-8791-4e3e-80d9-681fec998b5e_p1">
+            <start x="440.5" y="1481.5"/>
+            <end x="440.5625" y="1873.9391"/>
+        </arc>
+        <arc class="production" id="prod_a4309315-7e34-4d33-90c1-41cad75bdc1d" source="pr_ec45bb10-8791-4e3e-80d9-681fec998b5e_p2" target="s206_sa256">
+            <start x="440.5625" y="1903.9391"/>
+            <end x="440.625" y="2296.3782"/>
+        </arc>
+        <arc class="consumption" id="cons_df8f5d5f-3b5e-4010-b933-b46bc09ba2d3" source="s93_sa120" target="pr_9e67dd7e-879c-48e9-869c-80568c5310e6_p1">
+            <start x="575.0" y="1485.0"/>
+            <end x="574.8125" y="1875.5625"/>
+        </arc>
+        <arc class="production" id="prod_740b437e-9af0-459a-8083-b59f8ec3de40" source="pr_9e67dd7e-879c-48e9-869c-80568c5310e6_p2" target="s205_sa255">
+            <start x="574.8125" y="1905.5625"/>
+            <end x="574.625" y="2296.125"/>
+        </arc>
+        <arc class="consumption" id="cons_80657600-0a2c-4a32-846b-9bf84d3a962e" source="s538_csa83" target="pr_a879270e-0d9b-4900-9950-a6aab63a49af_p1">
+            <start x="385.0" y="895.0"/>
+            <next x="385.49997" y="895.00336"/>
+            <end x="385.25" y="917.5017"/>
+        </arc>
+        <arc class="production" id="prod_4ed3f4be-87de-4f91-92d3-174aafc559f5" source="pr_a879270e-0d9b-4900-9950-a6aab63a49af_p2" target="s121_sa117">
+            <start x="385.25" y="947.5017"/>
+            <end x="385.0" y="970.0"/>
+        </arc>
+        <arc class="consumption" id="cons_46e65f80-e539-49f8-b813-30f1872cbdcc" source="s538_csa83" target="pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4_p1">
+            <start x="437.5" y="815.0"/>
+            <end x="451.43707" y="815.1085"/>
+        </arc>
+        <arc class="production" id="prod_bf803eba-f985-4fb5-894f-bb815286e53a" source="pr_d02dfbea-8ac2-4447-acd7-c25ab8c47ef4_p2" target="s122_sa118">
+            <start x="481.43707" y="815.1085"/>
+            <next x="495.37415" y="815.217"/>
+            <end x="495.0" y="915.0"/>
+        </arc>
+        <arc class="consumption" id="cons_7cd13724-0db7-4a93-8fdb-8a3e12a5aa7f" source="s131_sa128" target="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p1">
+            <start x="1415.0" y="835.0"/>
+            <next x="1255.0" y="835.0"/>
+            <end x="1255.0" y="896.75"/>
+        </arc>
+        <arc class="consumption" id="cons_604fa550-f063-41a0-9285-472688187618" source="s132_sa130" target="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p1">
+            <start x="1255.0" y="785.0"/>
+            <next x="1255.0" y="835.0"/>
+            <end x="1255.0" y="896.75"/>
+        </arc>
+        <arc class="production" id="prod_1943d405-3b29-492e-978b-1aeb832522c4" source="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p2" target="s456_csa32">
+            <start x="1255.0" y="926.75"/>
+            <end x="1255.0" y="984.5"/>
+        </arc>
+        <arc class="consumption" id="addreact_97bae921-179a-4de9-8651-2437b595c55e" source="s133_sa131" target="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p1">
+            <start x="1220.0" y="840.0"/>
+            <end x="1255.0" y="896.75"/>
+        </arc>
+        <arc class="consumption" id="addreact_17bf5f2a-f97d-4bca-bb4a-04c1c6f79bce" source="s60_sa129" target="pr_c7bc5377-8405-4d56-ace2-3be73a675216_p1">
+            <start x="1150.0" y="890.0"/>
+            <end x="1255.0" y="896.75"/>
+        </arc>
+        <arc class="consumption" id="cons_982fc8b4-ddc8-48d0-a2a4-ddaa9b2461fa" source="s56_sa77" target="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p1">
+            <start x="780.5" y="571.5"/>
+            <next x="780.5" y="695.0"/>
+            <end x="780.5" y="756.875"/>
+        </arc>
+        <arc class="consumption" id="cons_29abd94b-2a9a-4c3e-8e47-cd8534fa1e9b" source="s40_sa80" target="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p1">
+            <start x="725.0" y="695.0"/>
+            <next x="780.5" y="695.0"/>
+            <end x="780.5" y="756.875"/>
+        </arc>
+        <arc class="production" id="prod_bdf1ec96-d794-4158-8dbc-278c09e0c7ac" source="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p2" target="s478_csa56">
+            <start x="780.5" y="786.875"/>
+            <end x="780.5" y="844.75"/>
+        </arc>
+        <arc class="consumption" id="addreact_792b0141-fb7d-4752-ba34-c5358815c93b" source="s483_sa333" target="pr_cc9d0172-9978-48e9-b709-3395a7f236bc_p1">
+            <start x="725.0" y="750.0"/>
+            <end x="780.5" y="756.875"/>
+        </arc>
+        <arc class="stimulation" id="direct_0e393e85-8839-478e-be91-4d3f5b62a2e6" source="s14_sa14" target="s476_sa326">
+            <start x="773.05554" y="347.5"/>
+            <end x="743.8889" y="400.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_c229be89-61cb-4749-b0b7-497bddbf8a5b" source="s14_sa14" target="s477_sa327">
+            <start x="786.94446" y="347.5"/>
+            <end x="816.1111" y="400.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_d963236c-8e85-4a6b-a2f7-7d8c45e14863" source="s476_sa326" target="s56_sa77">
+            <start x="739.9802" y="450.0"/>
+            <end x="772.5158" y="531.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_35c06971-179a-4754-8f7f-01e2d1c8b5be" source="s477_sa327" target="s56_sa77">
+            <start x="820.2174" y="450.0"/>
+            <end x="788.3261" y="531.5"/>
+        </arc>
+        <arc class="consumption" id="cons_d4b0ef8d-8b85-462f-b58f-7f62e2ba3345" source="s60_sa265" target="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec_p1">
+            <start x="1009.8966" y="935.0"/>
+            <end x="1009.1715" y="1060.2764"/>
+        </arc>
+        <arc class="production" id="prod_e7b36f96-a09d-49ba-aeca-6ec00c0d28d5" source="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec_p2" target="s64_sa337">
+            <start x="1009.1715" y="1090.2764"/>
+            <next x="1008.4464" y="1215.5526"/>
+            <end x="1120.0" y="1215.0"/>
+        </arc>
+        <arc class="catalysis" id="logicarc_357683e8-250e-4a97-a844-55600de77edc" source="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce_p2" target="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec">
+            <start x="915.5" y="951.5"/>
+            <next x="930.5035" y="951.73596"/>
+            <next x="929.1707" y="1075.2449"/>
+            <end x="1004.1716" y="1075.2505"/>
+        </arc>
+        <arc class="logic arc" id="modif_ebb9a2b8-e9c7-4bf4-a5e1-e7c0395922ee" source="s481_sa331" target="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce_p1">
+            <start x="889.3461" y="906.5"/>
+            <end x="875.5" y="951.5"/>
+        </arc>
+        <arc class="logic arc" id="modif_5d9d0de8-fe46-45cb-a3e9-d93f94194b9d" source="s478_csa56" target="logicglyph_96066840-e34e-4cf3-a245-52f276ee26ce_p1">
+            <start x="835.0" y="951.5"/>
+            <end x="875.5" y="951.5"/>
+        </arc>
+        <arc class="catalysis" id="modif_9a44fd0d-f690-4fa0-868d-6c023ad18b22" source="s456_csa32" target="pr_49fcf38d-f602-465e-a3cb-fdd37d0f6dec">
+            <start x="1165.0" y="1075.0"/>
+            <end x="1014.17145" y="1075.3022"/>
+        </arc>
+        <arc class="stimulation" id="direct_d2ec1ad7-9343-4abc-8c4a-505fb095e29c" source="s538_csa82" target="s121_sa154">
+            <start x="1570.0" y="1370.0"/>
+            <next x="1570.3197" y="1489.761"/>
+            <end x="1690.0" y="1489.9402"/>
+        </arc>
+        <arc class="consumption" id="cons_8ad8ea83-458e-485b-a367-126c03883fa3" source="s64_sa337" target="pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f_p1">
+            <start x="1160.0" y="1245.0"/>
+            <end x="1159.0" y="1453.25"/>
+        </arc>
+        <arc class="production" id="prod_dd492c3a-c7b5-46fb-af43-ac2dc2055341" source="pr_7bb4f4f8-8664-4714-aade-8b7718e5fc4f_p2" target="s511_csa75">
+            <start x="1159.0" y="1483.25"/>
+            <end x="1158.0" y="1691.5"/>
+        </arc>
+        <arc class="consumption" id="cons_1bd49e86-1090-4c09-9a1b-c8ca694728d6" source="s491_sa148" target="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd_p1">
+            <start x="1405.5" y="1865.4547"/>
+            <end x="1368.75" y="1864.1023"/>
+        </arc>
+        <arc class="production" id="prod_fe5d9359-4d35-4b34-ad46-4ceb0017082a" source="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd_p2" target="s81_sa145">
+            <start x="1338.75" y="1864.1023"/>
+            <next x="1302.0" y="1862.75"/>
+            <end x="1305.1647" y="2051.5"/>
+        </arc>
+        <arc class="catalysis" id="modif_6eb9f2af-abac-422c-bacb-bd934fa47eba" source="s511_csa75" target="pr_0aa5d00e-00ac-4159-b22b-7543d06f26bd">
+            <start x="1240.5" y="1826.5"/>
+            <next x="1352.7474" y="1823.4906"/>
+            <end x="1353.8806" y="1859.104"/>
+        </arc>
+        <arc class="inhibition" id="direct_eb584dc3-8cb2-4428-9eec-f9bbeea47c58" source="s491_sa148" target="s530_csa80">
+            <start x="1445.4424" y="1886.5"/>
+            <end x="1445.0936" y="2007.5"/>
+        </arc>
+        <arc class="inhibition" id="direct_706e487e-578f-4ec5-ad26-253e3139826b" source="s497_sa349" target="s122_sa118">
+            <start x="605.0" y="935.0"/>
+            <end x="535.0" y="935.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_7a500050-90d3-45eb-982f-557f35006b48" source="s497_sa354" target="s23_sa23">
+            <start x="1400.0" y="410.0"/>
+            <next x="1399.1274" y="363.38025"/>
+            <end x="1355.5" y="365.00778"/>
+        </arc>
+        <arc class="inhibition" id="direct_da19d33c-b370-47de-a796-37800eefdffb" source="s497_sa354" target="s25_sa25">
+            <start x="1440.0" y="410.0"/>
+            <next x="1440.0" y="365.0"/>
+            <end x="1480.0" y="365.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_89037408-3685-4d16-aaac-6b1d0ce10618" source="s501_sa353" target="s23_sa23">
+            <start x="1395.0" y="325.0"/>
+            <next x="1395.3624" y="349.9231"/>
+            <end x="1355.5" y="351.5"/>
+        </arc>
+        <arc class="inhibition" id="direct_1ab4e271-602d-48de-92f3-0d078e7b4420" source="s501_sa353" target="s25_sa25">
+            <start x="1435.0" y="325.0"/>
+            <next x="1435.0" y="350.0"/>
+            <end x="1480.0" y="350.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_4a985d56-d68c-4ba8-9477-72f1a516956d" source="s502_sa355" target="s123_sa348">
+            <start x="290.0" y="1200.0"/>
+            <end x="290.0" y="1145.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_a364b678-e7e2-49b8-a71d-cfcaa04b611e" source="s503_sa356" target="s123_sa348">
+            <start x="290.0" y="1060.0"/>
+            <end x="290.0" y="1105.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_c98aa586-1dda-4d7f-8bd9-50960d1cba5f" source="s501_sa359" target="s514_sa152">
+            <start x="1185.0779" y="1935.0"/>
+            <end x="1185.4221" y="1846.5"/>
+        </arc>
+        <arc class="inhibition" id="direct_94d7a166-6ea2-4034-9227-74ba89414f72" source="s497_sa361" target="s535_sa383">
+            <start x="1695.0" y="1240.0"/>
+            <end x="1610.0" y="1240.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_9753cc46-c2de-4ab6-b443-0fcab41dacf4" source="s497_sa363" target="s64_sa337">
+            <start x="1255.1436" y="1285.0"/>
+            <next x="1255.5964" y="1221.8964"/>
+            <end x="1200.0" y="1223.7014"/>
+        </arc>
+        <arc class="stimulation" id="direct_4646d7c1-5ceb-4705-a6b3-3e4b718bf0bb" source="s64_sa337" target="s142_sa367">
+            <start x="1120.0" y="1235.0"/>
+            <next x="935.5" y="1235.0"/>
+            <end x="935.0" y="1345.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_0228d777-9c84-49db-ae9e-b4037544fa49" source="s142_sa367" target="s517_sa370">
+            <start x="915.0" y="1385.0"/>
+            <next x="915.54486" y="1426.4949"/>
+            <next x="785.0" y="1426.523"/>
+            <end x="785.0" y="1585.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_71e52a6a-d8b6-4509-b410-f6b0df60e924" source="s142_sa367" target="s516_sa369">
+            <start x="915.0" y="1385.0"/>
+            <next x="915.5357" y="1426.4813"/>
+            <next x="880.0" y="1426.584"/>
+            <end x="880.0" y="1585.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_29cb0265-9f47-453d-a035-d05d4824a530" source="s142_sa367" target="s518_sa371">
+            <start x="955.0" y="1385.0"/>
+            <next x="955.4986" y="1426.5004"/>
+            <next x="985.4986" y="1426.5001"/>
+            <end x="985.4998" y="1586.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_d151a4db-f994-4c78-9b71-7f41b51475c6" source="s142_sa367" target="s519_sa372">
+            <start x="955.0" y="1385.0"/>
+            <next x="955.49866" y="1426.4999"/>
+            <next x="1075.4991" y="1426.4993"/>
+            <end x="1075.4999" y="1586.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_7f069a7b-a3ce-4269-a9de-b7a803e3153d" source="s515_sa368" target="s388_csa79">
+            <start x="850.54083" y="1836.5"/>
+            <next x="850.9702" y="2046.8235"/>
+            <next x="931.0827" y="2046.6599"/>
+            <end x="930.125" y="2293.125"/>
+        </arc>
+        <arc class="stimulation" id="direct_a70701ab-8aa0-4a75-a2e5-10bd2a17ff01" source="s520_csa77" target="s388_csa79">
+            <start x="1030.5" y="1876.5"/>
+            <next x="1030.8654" y="2046.5875"/>
+            <next x="930.81396" y="2046.8024"/>
+            <end x="930.125" y="2293.125"/>
+        </arc>
+        <arc class="stimulation" id="direct_fb4b269b-8b98-4d34-b96f-d423dbfa37b3" source="s516_sa369" target="s515_sa368">
+            <start x="879.9768" y="1625.0"/>
+            <next x="879.8533" y="1731.5203"/>
+            <next x="850.5986" y="1731.4863"/>
+            <end x="850.5232" y="1796.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_549f9870-d438-40d3-94f3-18a16e4a726e" source="s517_sa370" target="s515_sa368">
+            <start x="784.97845" y="1625.0"/>
+            <next x="784.86365" y="1731.4576"/>
+            <next x="850.5916" y="1731.5284"/>
+            <end x="850.52155" y="1796.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_21afba36-def0-4728-8389-4ae637ea8bed" source="s518_sa371" target="s520_csa77">
+            <start x="985.5" y="1626.5"/>
+            <next x="985.5" y="1691.5"/>
+            <next x="1030.5" y="1691.5"/>
+            <end x="1030.5" y="1756.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_538f5987-0004-4c7a-b426-de3419ecd1d3" source="s519_sa372" target="s520_csa77">
+            <start x="1075.5" y="1626.5"/>
+            <next x="1075.5" y="1691.5"/>
+            <next x="1030.5" y="1691.5"/>
+            <end x="1030.5" y="1756.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_b6305914-ea52-4a70-a139-7ea3a60c9bfa" source="s529_sa380" target="s515_sa368">
+            <start x="915.5" y="1911.5"/>
+            <next x="915.5" y="1816.5"/>
+            <end x="890.5" y="1816.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_c2aba849-4788-463b-9e52-5ad0328335c8" source="s529_sa380" target="s520_csa77">
+            <start x="955.5" y="1911.5"/>
+            <next x="955.5" y="1816.5"/>
+            <end x="980.5" y="1816.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_257936b6-1b56-4edb-a493-cef2eaf0f765" source="s500_sa381" target="s530_csa80">
+            <start x="1535.0" y="2040.0"/>
+            <end x="1497.5" y="2040.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_14b43dfb-5c0f-444f-95ac-9cf8a8be64de" source="s544_csa86" target="s538_csa82">
+            <start x="1457.5" y="1095.0"/>
+            <next x="1460.4592" y="1290.1337"/>
+            <end x="1517.5" y="1290.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_5ebd697f-39e4-4e27-95d0-8419e8ba1b11" source="s424_csa9" target="s538_csa83">
+            <start x="270.0" y="695.0"/>
+            <next x="385.29108" y="694.89703"/>
+            <end x="385.0" y="735.0"/>
+        </arc>
+        <arc class="consumption" id="cons_710d97c5-ba99-45f3-b59c-b073ce4890de" source="s546_csa84" target="pr_5a260324-4f0a-4322-ab4e-9cb8f960754e_p1">
+            <start x="1401.75" y="1570.0"/>
+            <end x="1423.375" y="1602.5"/>
+        </arc>
+        <arc class="production" id="prod_c8fef02a-da4b-4615-a702-5c4727b051a4" source="pr_5a260324-4f0a-4322-ab4e-9cb8f960754e_p2" target="s119_sa389">
+            <start x="1423.375" y="1632.5"/>
+            <end x="1445.0" y="1665.0"/>
+        </arc>
+        <arc class="consumption" id="cons_5a6092d3-584b-4d46-ad73-fa767cad9aa6" source="s118_sa390" target="pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b_p1">
+            <start x="1355.0" y="1705.0"/>
+            <next x="1355.1544" y="1734.9111"/>
+            <end x="1312.8271" y="1735.7056"/>
+        </arc>
+        <arc class="production" id="prod_9daa909c-51ac-4b1c-9e6f-26492eebd92c" source="pr_afbb231d-e242-4b1d-9e9c-1b68584cc75b_p2" target="s511_csa75">
+            <start x="1282.8271" y="1735.7056"/>
+            <end x="1240.5" y="1736.5"/>
+        </arc>
+        <arc class="consumption" id="cons_8532dca3-0775-4576-9cd4-daec19cec0a9" source="s119_sa389" target="pr_17b44a2a-027b-45b8-bcd0-0e564ff37840_p1">
+            <start x="1445.0" y="1705.0"/>
+            <next x="1445.2205" y="1779.8988"/>
+            <end x="1357.8602" y="1780.6995"/>
+        </arc>
+        <arc class="production" id="prod_4b4865f3-5082-4a68-afe3-bba1ee09dc38" source="pr_17b44a2a-027b-45b8-bcd0-0e564ff37840_p2" target="s511_csa75">
+            <start x="1327.8602" y="1780.6995"/>
+            <end x="1240.5" y="1781.5"/>
+        </arc>
+        <arc class="consumption" id="cons_8ca0fa20-d027-4809-9c2c-953da2548817" source="s546_csa84" target="pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e_p1">
+            <start x="1401.75" y="1570.0"/>
+            <end x="1382.4402" y="1602.5"/>
+        </arc>
+        <arc class="production" id="prod_f6df2bd6-7b59-4106-aa7f-04604906b9ba" source="pr_55c0a2e0-b324-4514-a0d4-e97aa9ab261e_p2" target="s118_sa390">
+            <start x="1382.4402" y="1632.5"/>
+            <end x="1363.1305" y="1665.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_2899a9d7-6e4b-48aa-a11f-daeeeea99937" source="s544_csa86" target="s546_csa84">
+            <start x="1402.5" y="1095.0"/>
+            <end x="1401.75" y="1453.0"/>
+        </arc>
+        <arc class="consumption" id="cons_0d92900a-75bc-4918-a6fe-57ac5706f1a0" source="s131_sa128" target="pr_20909734-7c5e-4dfb-86a7-2199c2730579_p1">
+            <start x="1415.0" y="835.0"/>
+            <next x="1415.0" y="900.0"/>
+            <next x="1430.0" y="900.0"/>
+            <end x="1430.0" y="914.5"/>
+        </arc>
+        <arc class="consumption" id="cons_19af4271-4e0b-4571-8673-e740acbfb9cb" source="s547_sa400" target="pr_20909734-7c5e-4dfb-86a7-2199c2730579_p1">
+            <start x="1515.0" y="900.0"/>
+            <next x="1430.0" y="900.0"/>
+            <end x="1430.0" y="914.5"/>
+        </arc>
+        <arc class="production" id="prod_e83e01ac-9906-4088-afed-c6eabb8bcbd2" source="pr_20909734-7c5e-4dfb-86a7-2199c2730579_p2" target="s544_csa86">
+            <start x="1430.0" y="944.5"/>
+            <end x="1430.0" y="955.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_82440c40-7b87-4d3d-8a93-704425e297c6" source="s98_sa91" target="s424_csa9">
+            <start x="215.0" y="575.0"/>
+            <end x="215.0" y="615.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_8c0b2f37-a37c-4769-95f7-117ee8d8ea99" source="s424_csa9" target="s142_sa367">
+            <start x="215.0" y="774.5"/>
+            <next x="215.2452" y="1365.2987"/>
+            <end x="895.0" y="1365.0166"/>
+        </arc>
+        <arc class="stimulation" id="direct_832ebdbb-a844-4298-8e30-6755a6393372" source="s548_sa401" target="s549_sa402">
+            <start x="710.0" y="1452.5"/>
+            <end x="710.0" y="1495.0"/>
+        </arc>
+        <arc class="stimulation" id="direct_d93be67c-5892-4995-b282-4dfe0e3e757b" source="s549_sa402" target="s517_sa370">
+            <start x="710.0" y="1545.0"/>
+            <next x="710.0" y="1605.0"/>
+            <end x="745.0" y="1605.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_7478255a-f5ee-4b20-a8ce-2d110421ac12" source="s501_sa403" target="s538_csa83">
+            <start x="495.0" y="775.0"/>
+            <end x="437.5" y="775.0"/>
+        </arc>
+        <arc class="consumption" id="cons_076c6aa6-72ef-4f56-af91-6ec42ad6afc0" source="s130_sa127" target="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246_p1">
+            <start x="1300.0" y="720.0"/>
+            <end x="1282.5" y="720.0"/>
+        </arc>
+        <arc class="production" id="prod_9bb91098-72c0-46cc-811b-a9d159fc145c" source="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246_p2" target="s552_sa407">
+            <start x="1252.5" y="720.0"/>
+            <end x="1235.0" y="720.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_60501b13-75c1-4480-aad2-3ddd9fff7b3b" source="s148_sa405" target="pr_2f1f2baf-5e85-408a-ac91-e94b378a3246">
+            <start x="1085.0" y="675.0"/>
+            <next x="1085.07" y="695.31866"/>
+            <next x="1267.9381" y="694.6897"/>
+            <end x="1267.5" y="715.0"/>
+        </arc>
+        <arc class="consumption" id="cons_eee0f307-bf1a-4682-9a84-8a700cf2a3fd" source="s133_sa131" target="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34_p1">
+            <start x="1180.0" y="820.0"/>
+            <next x="1180.0" y="809.0"/>
+            <end x="1180.0" y="802.0"/>
+        </arc>
+        <arc class="production" id="prod_cc1847b7-d5f2-4db3-93b1-de93fa8da12f" source="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34_p2" target="s550_sa404">
+            <start x="1180.0" y="772.0"/>
+            <end x="1180.0" y="765.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_ab212db9-3533-43c4-8d8b-22c7a1440a3d" source="s148_sa405" target="pr_e8548d00-a1ef-4c43-9cff-49a017c52a34">
+            <start x="1065.0" y="675.0"/>
+            <next x="1063.4913" y="786.5051"/>
+            <end x="1175.0" y="787.0"/>
+        </arc>
+        <arc class="consumption" id="cons_d553ff0a-f9c2-4ca2-99a1-4d178665ebeb" source="s60_sa129" target="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea_p1">
+            <start x="1110.0" y="870.0"/>
+            <end x="1110.0" y="862.5"/>
+        </arc>
+        <arc class="production" id="prod_45cf1726-7ee2-4b9d-965b-7a1fb106298f" source="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea_p2" target="s551_sa406">
+            <start x="1110.0" y="832.5"/>
+            <end x="1110.0" y="825.0"/>
+        </arc>
+        <arc class="catalysis" id="modif_8cf03325-b3fb-4d25-855f-50f1a4b7b62c" source="s148_sa405" target="pr_428d8765-1b16-43a3-a14c-521ae8fc71ea">
+            <start x="1045.0" y="675.0"/>
+            <next x="1044.2244" y="847.2263"/>
+            <end x="1105.0" y="847.5"/>
+        </arc>
+        <arc class="stimulation" id="direct_4ca63665-0a40-45f3-ad83-a2a0b4a335e1" source="s506_sa362" target="s148_sa405">
+            <start x="965.0" y="655.0"/>
+            <end x="1025.0" y="655.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_589a70dc-d83e-4e8b-854a-55bdb89177e9" source="s501_sa408" target="s538_csa82">
+            <start x="1695.0" y="1330.0"/>
+            <end x="1622.5" y="1330.0"/>
+        </arc>
+        <arc class="inhibition" id="direct_86b35698-d111-48cc-a276-e636786c6f25" source="s504_sa415" target="s25_sa25">
+            <start x="1609.5" y="363.96332"/>
+            <end x="1560.0" y="364.53668"/>
+        </arc>
+        <arc class="inhibition" id="direct_570da69c-1e8d-4080-bb03-cd2cf6fee2d7" source="s504_sa416" target="s549_sa402">
+            <start x="685.6667" y="1670.0"/>
+            <end x="689.8333" y="1545.0"/>
+        </arc>
+    </map>
+</sbgn>
+

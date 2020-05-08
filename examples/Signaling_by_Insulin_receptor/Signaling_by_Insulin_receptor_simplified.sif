@@ -1,0 +1,71 @@
+PARTICIPANT_A	INTERACTION_TYPE	PARTICIPANT_B	ANNOTATION_SOURCE	ANNOTATION_INTERACTION	ANNOTATION_TARGET	SOURCE_CLASS	TARGET_CLASS
+Insulin_p-6Y-Insulin receptor_SHC1	production	Insulin_p-6Y-Insulin receptor_p-Y427-SHC1				complex	complex
+Insulin_p-6Y-Insulin receptor_SHC1	production	ADP				complex	simple chemical
+GRB10	production	GRB10_INSR				macromolecule	complex
+GRB2-1_p-4S-SOS1_p-Y427-SHC1	production	p-Y427-SHC1				complex	macromolecule
+GRB2-1_p-4S-SOS1_p-Y427-SHC1	production	GRB2-1_p-4S-SOS1				complex	complex
+p-6Y-insulin receptor	production	Pi				complex	simple chemical
+p-6Y-insulin receptor	production	insulin receptor				complex	complex
+GTP	production	p21 RAS_GTP				simple chemical	complex
+GTP	production	GDP				simple chemical	simple chemical
+Insulin receptor	production	Insulin_Insulin receptor				complex	complex
+GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2	production	GRB2_p-4S-SOS1_p-Y-IRS1_p-Y-IRS2				complex	complex
+GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2	production	ADP				complex	simple chemical
+GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2	catalysis	p21 RAS_GTP				complex	complex
+GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2	catalysis	GDP				complex	simple chemical
+Insulin_p-6Y-Insulin receptor	production	IRS_Insulin_p-6Y-Insulin receptor				complex	complex
+Insulin_p-6Y-Insulin receptor	production	Insulin_p-6Y-Insulin receptor_SHC1				complex	complex
+Insulin_p-6Y-Insulin receptor	production	GRB10_INSR				complex	complex
+Insulin_p-6Y-Insulin receptor	production	Insulin_p-6Y-insulin receptor				complex	complex
+MAPK3_(MAPK1)	catalysis	GRB2_p-4S-SOS1_p-Y-IRS1_p-Y-IRS2				unspecified entity	complex
+MAPK3_(MAPK1)	catalysis	ADP				unspecified entity	simple chemical
+MAPK3_(MAPK1)	catalysis	GRB2-1_p-4S-SOS1_p-Y427-SHC1				unspecified entity	complex
+GRB2-1_SOS1_p-Y427-SHC1	catalysis	p21 RAS_GTP				complex	complex
+GRB2-1_SOS1_p-Y427-SHC1	catalysis	GDP				complex	simple chemical
+GRB2-1_SOS1_p-Y427-SHC1	production	GRB2-1_p-4S-SOS1_p-Y427-SHC1				complex	complex
+GRB2-1_SOS1_p-Y427-SHC1	production	ADP				complex	simple chemical
+GRB2-1_SOS1	production	GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2				complex	complex
+GRB2-1_SOS1	production	GRB2-1_SOS1_p-Y427-SHC1				complex	complex
+V-ATPase	production	V-ATPase_ATP6AP1				complex	complex
+IRS1_IRS2	production	IRS_Insulin_p-6Y-Insulin receptor				unspecified entity	complex
+p-Y-IRS_Insulin_p-6Y-Insulin receptor	production	p-Y-IRS1_p-Y-IRS2				complex	unspecified entity
+p-Y-IRS_Insulin_p-6Y-Insulin receptor	production	Insulin_p-6Y-Insulin receptor				complex	complex
+p-Y427-SHC1	production	SHC1				macromolecule	macromolecule
+p-Y427-SHC1	production	Pi				macromolecule	simple chemical
+p-Y427-SHC1	production	GRB2-1_SOS1_p-Y427-SHC1				macromolecule	complex
+insulin receptor	production	Insulin receptor				complex	complex
+ATP	production	GRB2_p-4S-SOS1_p-Y-IRS1_p-Y-IRS2				simple chemical	complex
+ATP	production	ADP				simple chemical	simple chemical
+ATP	production	GRB2-1_p-4S-SOS1_p-Y427-SHC1				simple chemical	complex
+ATP	production	Insulin_p-6Y-Insulin receptor_p-Y427-SHC1				simple chemical	complex
+ATP	production	p-Y-IRS_Insulin_p-6Y-Insulin receptor				simple chemical	complex
+ATP	production	Insulin_p-6Y-Insulin receptor				simple chemical	complex
+p21 RAS_GDP	production	p21 RAS_GTP				complex	complex
+p21 RAS_GDP	production	GDP				complex	simple chemical
+GRB2_p-4S-SOS1_p-Y-IRS1_p-Y-IRS2	production	p-Y-IRS1_p-Y-IRS2				complex	unspecified entity
+GRB2_p-4S-SOS1_p-Y-IRS1_p-Y-IRS2	production	GRB2-1_p-4S-SOS1				complex	complex
+GRB2-1	production	GRB2-1_SOS1				macromolecule	complex
+IRS_Insulin_p-6Y-Insulin receptor	catalysis	p-Y-IRS_Insulin_p-6Y-Insulin receptor				complex	complex
+IRS_Insulin_p-6Y-Insulin receptor	catalysis	ADP				complex	simple chemical
+p-Y-IRS1_p-Y-IRS2	production	GRB2-1_SOS1_p-Y-IRS1_p-Y-IRS2				unspecified entity	complex
+p-Y-IRS1_p-Y-IRS2	production	IRS1_IRS2				unspecified entity	unspecified entity
+p-Y-IRS1_p-Y-IRS2	production	Pi				unspecified entity	simple chemical
+p-Y-IRS1_p-Y-IRS2	production	p-Y-IRS1_p-Y-IRS2_PI3K				unspecified entity	complex
+GRB10_INSR	inhibition	IRS_Insulin_p-6Y-Insulin receptor				complex	complex
+GRB10_INSR	inhibition	Insulin_p-6Y-Insulin receptor_SHC1				complex	complex
+protein tyrosine phosphatase	catalysis	SHC1				unspecified entity	macromolecule
+protein tyrosine phosphatase	catalysis	Pi				unspecified entity	simple chemical
+protein tyrosine phosphatase	catalysis	insulin receptor				unspecified entity	complex
+protein tyrosine phosphatase	catalysis	IRS1_IRS2				unspecified entity	unspecified entity
+Insulin	production	Insulin_Insulin receptor				complex	complex
+Insulin_Insulin receptor	production	Insulin_p-6Y-Insulin receptor				complex	complex
+Insulin_Insulin receptor	production	ADP				complex	simple chemical
+SHC1	production	Insulin_p-6Y-Insulin receptor_SHC1				macromolecule	complex
+SOS1	production	GRB2-1_SOS1				macromolecule	complex
+Insulin_p-6Y-insulin receptor	production	p-6Y-insulin receptor				complex	complex
+Insulin_p-6Y-insulin receptor	production	insulin				complex	complex
+Insulin_p-6Y-Insulin receptor_p-Y427-SHC1	production	p-Y427-SHC1				complex	macromolecule
+Insulin_p-6Y-Insulin receptor_p-Y427-SHC1	production	Insulin_p-6Y-Insulin receptor				complex	complex
+ATP6AP1	production	V-ATPase_ATP6AP1				macromolecule	complex
+V-ATPase_ATP6AP1	catalysis	H+				complex	simple chemical
+PI3K	production	p-Y-IRS1_p-Y-IRS2_PI3K				complex	complex

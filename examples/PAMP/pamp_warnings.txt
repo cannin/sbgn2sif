@@ -1,0 +1,2 @@
+arc direct_c98aa586-1dda-4d7f-8bd9-50960d1cba5f: invalid target glyph, skipping
+arc direct_94d7a166-6ea2-4034-9227-74ba89414f72: invalid target glyph, skipping

@@ -1,0 +1,69 @@
+PARTICIPANT_A	INTERACTION_TYPE	PARTICIPANT_B	ANNOTATION_SOURCE	ANNOTATION_INTERACTION	ANNOTATION_TARGET	SOURCE_CLASS	TARGET_CLASS
+ssRNA	stimulation	TLR7			urn_miriam_hgnc_15631	nucleic acid feature	macromolecule
+ssRNA	stimulation	TLR8			urn_miriam_hgnc_15632	nucleic acid feature	macromolecule
+TLR7	stimulation	MYD88	urn_miriam_hgnc_15631		urn_miriam_hgnc_7562	macromolecule	macromolecule
+TLR8	stimulation	MYD88	urn_miriam_hgnc_15632		urn_miriam_hgnc_7562	macromolecule	macromolecule
+MYD88	production	MYD88_IRAK_TRAF	urn_miriam_hgnc_7562			macromolecule	complex
+TANK_TRAF3_IKBKE	production	TBK1			urn_miriam_hgnc_11584	complex	macromolecule
+TANK_TRAF3_IKBKE	production	IKBKE			urn_miriam_hgnc_14552	complex	macromolecule
+TBK1	catalysis	IRF3	urn_miriam_hgnc_11584	urn_miriam_pubmed_17761676	urn_miriam_hgnc_6118	macromolecule	macromolecule multimer
+NFKBIA	inhibition	NFKB	urn_miriam_hgnc_7797			macromolecule	complex
+Nsp3	inhibition	IKBKE	urn_miriam_ncbiprotein_1802476807		urn_miriam_hgnc_14552	macromolecule	macromolecule
+Nsp3	inhibition	DDX58	urn_miriam_ncbiprotein_1802476807		urn_miriam_hgnc_19102	macromolecule	macromolecule
+Nsp3	inhibition	IFIH1	urn_miriam_ncbiprotein_1802476807		urn_miriam_hgnc_18873	macromolecule	macromolecule
+Nsp3	inhibition	TRAF6	urn_miriam_ncbiprotein_1802476807		urn_miriam_hgnc_12036	macromolecule	macromolecule
+Nsp3	inhibition	IRF3	urn_miriam_ncbiprotein_1802476807	urn_miriam_pubmed_17761676	urn_miriam_hgnc_6118	macromolecule	macromolecule multimer
+IKBKE	catalysis	IRF7	urn_miriam_hgnc_14552	urn_miriam_pubmed_20303872	urn_miriam_hgnc_6122	macromolecule	macromolecule multimer
+DDX58	catalysis	MAVS	urn_miriam_hgnc_19102	urn_miriam_pubmed_25581309	urn_miriam_hgnc_29233	macromolecule	macromolecule
+IFIH1	catalysis	MAVS	urn_miriam_hgnc_18873	urn_miriam_pubmed_25581309	urn_miriam_hgnc_29233	macromolecule	macromolecule
+M	inhibition	DDX58	urn_miriam_ncbiprotein_1796318601		urn_miriam_hgnc_19102	macromolecule	macromolecule
+M	inhibition	IFIH1	urn_miriam_ncbiprotein_1796318601		urn_miriam_hgnc_18873	macromolecule	macromolecule
+M	inhibition	TANK_TRAF3_IKBKE	urn_miriam_ncbiprotein_1796318601			macromolecule	complex
+Orf8	inhibition	IRF3	urn_miriam_ncbiprotein_1796318604		urn_miriam_hgnc_6118	macromolecule	macromolecule multimer
+Orf3b	inhibition	IRF3	urn_miriam_uniprot_P59633		urn_miriam_hgnc_6118	macromolecule	macromolecule multimer
+TRAF6	stimulation	MAP3K7	urn_miriam_hgnc_12036		urn_miriam_hgnc_6859	macromolecule	macromolecule
+TRAF6	production	MAVS_TRAF	urn_miriam_hgnc_12036			macromolecule	complex
+TRAF6	production	IKK Complex	urn_miriam_hgnc_12036			macromolecule	complex
+MAP3K7	stimulation	MAP2K6	urn_miriam_hgnc_6859		urn_miriam_hgnc_6846	macromolecule	macromolecule
+MAP3K7	stimulation	MAP2K3	urn_miriam_hgnc_6859		urn_miriam_hgnc_6843	macromolecule	macromolecule
+MAP3K7	stimulation	MAP2K4	urn_miriam_hgnc_6859		urn_miriam_hgnc_6844	macromolecule	macromolecule
+MAP3K7	stimulation	MAP2K7	urn_miriam_hgnc_6859		urn_miriam_hgnc_6847	macromolecule	macromolecule
+MAP2K6	stimulation	MAPK14	urn_miriam_hgnc_6846		urn_miriam_hgnc_6876	macromolecule	macromolecule
+MAP2K3	stimulation	MAPK14	urn_miriam_hgnc_6843		urn_miriam_hgnc_6876	macromolecule	macromolecule
+MAP2K4	stimulation	JNK	urn_miriam_hgnc_6844			macromolecule	complex
+MAP2K7	stimulation	JNK	urn_miriam_hgnc_6847			macromolecule	complex
+MAPK14	stimulation	AP1	urn_miriam_hgnc_6876			macromolecule	complex
+JNK	stimulation	AP1				complex	complex
+E	stimulation	MAPK14	urn_miriam_ncbiprotein_1796318600		urn_miriam_hgnc_6876	macromolecule	macromolecule
+E	stimulation	JNK	urn_miriam_ncbiprotein_1796318600			macromolecule	complex
+N	stimulation	NFKB	urn_miriam_ncbiprotein_1798174255			macromolecule	complex
+N	inhibition	DDX58	urn_miriam_ncbiprotein_1798174255	urn_miriam_pubmed_25581309|urn_miriam_pubmed_28148787	urn_miriam_hgnc_19102	macromolecule	macromolecule
+MAVS_TRADD	stimulation	TANK_TRAF3_IKBKE				complex	complex
+MAVS_TRADD	stimulation	RIPK1_FADD				complex	complex
+TICAM1_TRAF3_TRAF6	stimulation	TANK_TRAF3_IKBKE				complex	complex
+TICAM1_TRAF3_TRAF6	stimulation	MAP3K7			urn_miriam_hgnc_6859	complex	macromolecule
+RIPK1_FADD	production	CASP8			urn_miriam_hgnc_1509	complex	macromolecule
+RIPK1_FADD	production	CASP10			urn_miriam_hgnc_1500	complex	macromolecule
+TICAM1	stimulation	TICAM1_TRAF3_TRAF6	urn_miriam_hgnc_18348			macromolecule	complex
+dsRNA	stimulation	EIF2AK2			urn_miriam_hgnc_9437	nucleic acid feature	macromolecule
+dsRNA	production	IFIH1			urn_miriam_hgnc_18873	nucleic acid feature	macromolecule
+dsRNA	production	TLR3			urn_miriam_hgnc_11849	nucleic acid feature	macromolecule multimer
+dsRNA	production	DDX58			urn_miriam_hgnc_19102	nucleic acid feature	macromolecule
+EIF2AK2	stimulation	MAP2K6	urn_miriam_hgnc_9437		urn_miriam_hgnc_6846	macromolecule	macromolecule
+Orf9	stimulation	ITCH	urn_miriam_uniprot_P59636		urn_miriam_hgnc_13890	macromolecule	macromolecule
+Nsp15	inhibition	IFIH1	urn_miriam_ncbiprotein_1802476818		urn_miriam_hgnc_18873	macromolecule	macromolecule
+Nsp15	inhibition	EIF2AK2	urn_miriam_ncbiprotein_1802476818		urn_miriam_hgnc_9437	macromolecule	macromolecule
+Nsp15	inhibition	DDX58	urn_miriam_ncbiprotein_1802476818	urn_miriam_pubmed_20303872	urn_miriam_hgnc_19102	macromolecule	macromolecule
+MAVS_TRAF	catalysis	TRAF6		urn_miriam_pubmed_19366914	urn_miriam_hgnc_12036	complex	macromolecule
+MAVS	production	MAVS_TRAF	urn_miriam_hgnc_29233			macromolecule	complex
+MAVS	production	MAVS_TRADD	urn_miriam_hgnc_29233			macromolecule	complex
+CASP10	production	IKK Complex	urn_miriam_hgnc_1500			macromolecule	complex
+IRAK4	production	MYD88_IRAK_TRAF	urn_miriam_hgnc_17967			macromolecule	complex
+IKK Complex	catalysis	NFKBIA		urn_miriam_pubmed_19366914	urn_miriam_hgnc_7797	complex	macromolecule
+TRADD	production	MAVS_TRADD	urn_miriam_hgnc_12030			macromolecule	complex
+TLR3	production	TICAM1	urn_miriam_hgnc_11849		urn_miriam_hgnc_18348	macromolecule multimer	macromolecule
+IRAK1	production	MYD88_IRAK_TRAF	urn_miriam_hgnc_6112			macromolecule	complex
+TRAF2	production	MAVS_TRAF	urn_miriam_hgnc_12032			macromolecule	complex
+TRAF5	production	MAVS_TRAF	urn_miriam_hgnc_12035			macromolecule	complex
+MYD88_IRAK_TRAF	catalysis	IRF7		urn_miriam_pubmed_20303872	urn_miriam_hgnc_6122	complex	macromolecule multimer
+CASP8	production	IKK Complex	urn_miriam_hgnc_1509			macromolecule	complex

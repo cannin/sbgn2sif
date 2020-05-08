@@ -1,0 +1,101 @@
+PARTICIPANT_A	INTERACTION_TYPE	PARTICIPANT_B	ANNOTATION_SOURCE	ANNOTATION_INTERACTION	ANNOTATION_TARGET	SOURCE_TYPE	TARGET_TYPE	SOURCE_CLASS	TARGET_CLASS
+GTP	consumption	GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS				entity_pool	process	simple chemical	process
+IRS:Insulin:p-6Y-Insulin receptor	consumption	Phosphorylation of IRS				entity_pool	process	complex	process
+GRB10:INSR	inhibition	Binding of IRS to insulin receptor				entity_pool	process	complex	association
+Insulin:p-6Y-Insulin receptor	consumption	Internalisation of the insulin receptor				entity_pool	process	complex	omitted process
+Insulin:p-6Y-Insulin receptor:SHC1	catalysis	Phosphorylation of SHC1				entity_pool	process	complex	process
+Insulin receptor	consumption	Insulin binds the insulin receptor				entity_pool	process	complex	association
+Insulin:p-6Y-Insulin receptor	consumption	Binding of Grb10 to the insulin receptor				entity_pool	process	complex	association
+GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2 dissociates	production	GRB2-1:p-4S-SOS1				process	entity_pool	dissociation	complex
+Insulin:p-6Y-insulin receptor	consumption	Dissociation of insulin from insulin receptor				entity_pool	process	complex	dissociation
+Insulin	consumption	Insulin binds the insulin receptor				entity_pool	process	complex	association
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2	production	ADP				process	entity_pool	process	simple chemical
+Insulin binds the insulin receptor	production	Insulin:Insulin receptor				process	entity_pool	association	complex
+protein tyrosine phosphatase	catalysis	Insulin receptor de-phosphorylation				entity_pool	process	unspecified entity	process
+H+	consumption	Endosome acidification				entity_pool	process	simple chemical	process
+De-phosphorylation of p-Y427-SHC1	production	SHC1				process	entity_pool	omitted process	macromolecule
+Re-integration of insulin receptor into plasma membrane	production	Insulin receptor				process	entity_pool	omitted process	complex
+Phosphorylation of IRS	production	p-Y-IRS:Insulin:p-6Y-Insulin receptor				process	entity_pool	process	complex
+p-6Y-insulin receptor	consumption	Insulin receptor de-phosphorylation				entity_pool	process	complex	process
+protein tyrosine phosphatase	catalysis	De-phosphorylation of p-Y427-SHC1				entity_pool	process	unspecified entity	omitted process
+ATP	consumption	Autophosphorylation of insulin receptor				entity_pool	process	simple chemical	process
+Insulin receptor de-phosphorylation	production	insulin receptor				process	entity_pool	process	complex
+GRB2-1:SOS1 binds p-IRS1,p-IRS2	production	GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2				process	entity_pool	association	complex
+IRS1,IRS2	consumption	Binding of IRS to insulin receptor				entity_pool	process	unspecified entity	association
+GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS	production	GDP				process	entity_pool	process	simple chemical
+Phosphorylation of SHC1	production	Insulin:p-6Y-Insulin receptor:p-Y427-SHC1				process	entity_pool	process	complex
+GTP	consumption	GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS				entity_pool	process	simple chemical	process
+Dissociation of IRS-P from insulin receptor	production	Insulin:p-6Y-Insulin receptor				process	entity_pool	dissociation	complex
+p-Y-IRS1,p-Y-IRS2	consumption	GRB2-1:SOS1 binds p-IRS1,p-IRS2				entity_pool	process	unspecified entity	association
+Insulin:p-6Y-Insulin receptor:SHC1	consumption	Phosphorylation of SHC1				entity_pool	process	complex	process
+Insulin:Insulin receptor	catalysis	Autophosphorylation of insulin receptor				entity_pool	process	complex	process
+Insulin:p-6Y-Insulin receptor	consumption	Binding of IRS to insulin receptor				entity_pool	process	complex	association
+V-ATPase	consumption	ATP6AP1 binds V-ATPase				entity_pool	process	complex	association
+GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2	catalysis	GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS				entity_pool	process	complex	process
+GRB2-1 binds SOS1	production	GRB2-1:SOS1				process	entity_pool	association	complex
+Endosome acidification	production	H+				process	entity_pool	process	simple chemical
+GRB2-1	consumption	GRB2-1 binds SOS1				entity_pool	process	macromolecule	association
+Autophosphorylation of insulin receptor	production	Insulin:p-6Y-Insulin receptor				process	entity_pool	process	complex
+Binding of IRS to insulin receptor	production	IRS:Insulin:p-6Y-Insulin receptor				process	entity_pool	association	complex
+Insulin:p-6Y-Insulin receptor	consumption	Binding of SHC1 to insulin receptor				entity_pool	process	complex	association
+GRB10	consumption	Binding of Grb10 to the insulin receptor				entity_pool	process	macromolecule	association
+GRB2-1:p-4S-SOS1:p-Y427-SHC1	consumption	GRB2-1:p-4S-SOS1:p-Y427-SHC1 dissociates				entity_pool	process	complex	dissociation
+IRS:Insulin:p-6Y-Insulin receptor	catalysis	Phosphorylation of IRS				entity_pool	process	complex	process
+PI3K	consumption	p-Y-IRS1,p-Y-IRS2 bind PI3K				entity_pool	process	complex	association
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2	production	GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2				process	entity_pool	process	complex
+p-Y-IRS1,p-Y-IRS2	consumption	Dephosphorylation of p-Y-IRS1,p-Y-IRS2				entity_pool	process	unspecified entity	process
+De-phosphorylation of p-Y427-SHC1	production	Pi				process	entity_pool	omitted process	simple chemical
+Dissociation of insulin from insulin receptor	production	insulin				process	entity_pool	dissociation	complex
+SHC1	consumption	Binding of SHC1 to insulin receptor				entity_pool	process	macromolecule	association
+Phosphorylation of IRS	production	ADP				process	entity_pool	process	simple chemical
+ATP	consumption	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1				entity_pool	process	simple chemical	process
+protein tyrosine phosphatase	catalysis	Dephosphorylation of p-Y-IRS1,p-Y-IRS2				entity_pool	process	unspecified entity	process
+GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2	consumption	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2				entity_pool	process	complex	process
+GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS	production	GDP				process	entity_pool	process	simple chemical
+GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2	consumption	GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2 dissociates				entity_pool	process	complex	dissociation
+ATP6AP1 binds V-ATPase	production	V-ATPase:ATP6AP1				process	entity_pool	association	complex
+insulin receptor	consumption	Re-integration of insulin receptor into plasma membrane				entity_pool	process	complex	omitted process
+p21 RAS:GDP	consumption	GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS				entity_pool	process	complex	process
+GRB10:INSR	inhibition	Binding of SHC1 to insulin receptor				entity_pool	process	complex	association
+p-Y-IRS1,p-Y-IRS2 bind PI3K	production	p-Y-IRS1,p-Y-IRS2:PI3K				process	entity_pool	association	complex
+Dissociation of IRS-P from insulin receptor	production	p-Y-IRS1,p-Y-IRS2				process	entity_pool	dissociation	unspecified entity
+GRB2-1:SOS1:p-Y427-SHC1	consumption	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1				entity_pool	process	complex	process
+p-Y-IRS1,p-Y-IRS2	consumption	p-Y-IRS1,p-Y-IRS2 bind PI3K				entity_pool	process	unspecified entity	association
+Dephosphorylation of p-Y-IRS1,p-Y-IRS2	production	Pi				process	entity_pool	process	simple chemical
+Dissociation of insulin from insulin receptor	production	p-6Y-insulin receptor				process	entity_pool	dissociation	complex
+p-Y427-SHC1	consumption	De-phosphorylation of p-Y427-SHC1				entity_pool	process	macromolecule	omitted process
+Internalisation of the insulin receptor	production	Insulin:p-6Y-insulin receptor				process	entity_pool	omitted process	complex
+GRB2-1:p-4S-SOS1:p-Y427-SHC1 dissociates	production	p-Y427-SHC1				process	entity_pool	dissociation	macromolecule
+GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2 dissociates	production	p-Y-IRS1,p-Y-IRS2				process	entity_pool	dissociation	unspecified entity
+Binding of Grb10 to the insulin receptor	production	GRB10:INSR				process	entity_pool	association	complex
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1	production	ADP				process	entity_pool	process	simple chemical
+V-ATPase:ATP6AP1	catalysis	Endosome acidification				entity_pool	process	complex	process
+GRB2-1:SOS1 binds p-Y427-SHC1	production	GRB2-1:SOS1:p-Y427-SHC1				process	entity_pool	association	complex
+ATP6AP1	consumption	ATP6AP1 binds V-ATPase				entity_pool	process	macromolecule	association
+MAPK3,(MAPK1)	catalysis	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1				entity_pool	process	unspecified entity	process
+p-Y427-SHC1	consumption	GRB2-1:SOS1 binds p-Y427-SHC1				entity_pool	process	macromolecule	association
+Dephosphorylation of p-Y-IRS1,p-Y-IRS2	production	IRS1,IRS2				process	entity_pool	process	unspecified entity
+Insulin receptor de-phosphorylation	production	Pi				process	entity_pool	process	simple chemical
+ATP	consumption	Phosphorylation of SHC1				entity_pool	process	simple chemical	process
+GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS	production	p21 RAS:GTP				process	entity_pool	process	complex
+p-Y-IRS:Insulin:p-6Y-Insulin receptor	consumption	Dissociation of IRS-P from insulin receptor				entity_pool	process	complex	dissociation
+Dissociation of p-Y427-SHC1 from insulin receptor	production	p-Y427-SHC1				process	entity_pool	dissociation	macromolecule
+Autophosphorylation of insulin receptor	production	ADP				process	entity_pool	process	simple chemical
+SOS1	consumption	GRB2-1 binds SOS1				entity_pool	process	macromolecule	association
+p21 RAS:GDP	consumption	GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS				entity_pool	process	complex	process
+IDA	catalysis	Insulin degradation				entity_pool	process	unspecified entity	omitted process
+GRB2-1:SOS1	consumption	GRB2-1:SOS1 binds p-Y427-SHC1				entity_pool	process	complex	association
+insulin	consumption	Insulin degradation				entity_pool	process	complex	omitted process
+GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS	production	p21 RAS:GTP				process	entity_pool	process	complex
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1	production	GRB2-1:p-4S-SOS1:p-Y427-SHC1				process	entity_pool	process	complex
+GRB2-1:p-4S-SOS1:p-Y427-SHC1 dissociates	production	GRB2-1:p-4S-SOS1				process	entity_pool	dissociation	complex
+Insulin:p-6Y-Insulin receptor:p-Y427-SHC1	consumption	Dissociation of p-Y427-SHC1 from insulin receptor				entity_pool	process	complex	dissociation
+Insulin:Insulin receptor	consumption	Autophosphorylation of insulin receptor				entity_pool	process	complex	process
+MAPK3,(MAPK1)	catalysis	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2				entity_pool	process	unspecified entity	process
+GRB2-1:SOS1:p-Y427-SHC1	catalysis	GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS				entity_pool	process	complex	process
+ATP	consumption	MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2				entity_pool	process	simple chemical	process
+Dissociation of p-Y427-SHC1 from insulin receptor	production	Insulin:p-6Y-Insulin receptor				process	entity_pool	dissociation	complex
+Binding of SHC1 to insulin receptor	production	Insulin:p-6Y-Insulin receptor:SHC1				process	entity_pool	association	complex
+Phosphorylation of SHC1	production	ADP				process	entity_pool	process	simple chemical
+GRB2-1:SOS1	consumption	GRB2-1:SOS1 binds p-IRS1,p-IRS2				entity_pool	process	complex	association
+ATP	consumption	Phosphorylation of IRS				entity_pool	process	simple chemical	process
