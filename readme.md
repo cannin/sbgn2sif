@@ -1,8 +1,8 @@
 # Convert SBGNML to SIF 
 
 * SBGNML: 
- * https://sbgn.github.io
- * http://co.mbine.org/specifications/sbgnml.version-0.3.release-1
+  * https://sbgn.github.io
+  * http://co.mbine.org/specifications/sbgnml.version-0.3.release-1
 * SIF: Check "Output" section
 
 # Installation 
@@ -36,10 +36,10 @@ An simplified graphical representation showing connections between SBGN glyphs
 
 * Intermediate output includes: entity pool, logic, and process glyphs. 
 * Simplified output removes logic and process 
- * Process nodes are removed using [bipartite network projection](https://en.wikipedia.org/wiki/Bipartite_network_projection). The graph represented by SBGNML is 
-  * Decomposed into bipartite and non-bipartite subgraphs
-  * Bipartite network projection is used on the bipartite subgraph 
-  * The non-bipartite and projected subgraphs are integrated
+  * Process nodes are removed using [bipartite network projection](https://en.wikipedia.org/wiki/Bipartite_network_projection). The graph represented by SBGNML is 
+    * Decomposed into bipartite and non-bipartite subgraphs
+    * Bipartite network projection is used on the bipartite subgraph 
+    * The non-bipartite and projected subgraphs are integrated
  * Logic nodes and connections are removed (TODO)
  * Interactions between complex members are not represented (TODO)
 
