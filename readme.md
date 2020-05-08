@@ -10,7 +10,13 @@
 * Pipenv: https://github.com/pypa/pipenv
 
 ```
-pipenv install 
+pipenv install
+```
+
+or 
+
+```
+pip3 install -r requirements.txt 
 ```
 
 # Example with Conversion to SVG and Verbose Output
